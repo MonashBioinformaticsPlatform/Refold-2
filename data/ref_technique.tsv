@@ -1,0 +1,42 @@
+ref_technique_id	ref_technique	user_id
+1	Dilution	2
+2	Dialysis	2
+3	Dilution/Dialysis combination	2
+4	Dilution/Column Refolding Combination	2
+5	Matix assisted dialysis	2
+6	Diafiltration	2
+7	Column refolding: Oxidative refolding chromatography	2
+8	Column refolding: Nickel-chelating chromatography	2
+9	Column refolding: Cobalt-chelating chromatography	2
+10	Column refolding: Size-exclusion chromatography	2
+11	Column refolding: affinity immobilization	2
+12	Detergent precipitation/sequestration	2
+13	Other	2
+14	Chaperone-assisted refolding	52
+15	Novexin Kit	51
+16	Centrifugal filtration	71
+19	Column refolding: hydrophobic interaction chromatography	71
+20	High Pressure	90
+21	Additive-introduced stepwise dialysis	162
+22	matrix assisted refolding/ renaturing gel filtration	163
+23	column refolding: ion-exchange chromatography	106
+24	Dilution with complex partner subunits	71
+25	NDSB	237
+26	Column refolding: protein immobilization	71
+27	Gel filtration with pH and denaturant gradients	71
+29	Chaperone-assisted/reversed micelles	71
+30	Column refolding: size exclusion chromatography with partner subunits	71
+31	Dilution into detergent	2
+32	Boiling	996
+33	Absorbtion/Centrifugation	1045
+34	Liquid-Liquid Extraction	1037
+35	Reversed Micelles	1037
+36	Multi-walled carbon nanotubes	1037
+37	Column refolding-Expanded bed adsorption chromatography (EBA)	1037
+38	Dilution and expand bed absorption (EBA)	1037
+39	Gel filtration	1037
+40	Column refolding- Immobilized Metal affinity chromatography (IMAC)	1037
+41	Dilution/ chaperone-assisted refolding	1037
+42	Chitin Column Chromatography	1037
+43	Three phase partitioning	1037
+44	zeolite assisted refolding	1037

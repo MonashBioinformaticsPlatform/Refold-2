@@ -1,0 +1,29 @@
+redox_agent_id	redox_agent	user_id
+1	None	2
+2	Thioredoxin	2
+3	Beta-mercaptoethanol	2
+4	DTT	2
+5	GSH/GSSG	2
+6	GSSG/DTT	2
+7	DTT/Beta mercaptoethanol	2
+8	Cu2+	2
+9	Cysteine/Cystine	2
+10	GSSG	2
+11	Cysteine	2
+12	GSH	2
+13	Beta-mercaptoethanol/Cystamine	2
+14	Beta-mercaptoethanol/GSH-GSSG	118
+15	TCEP (facultative)	163
+16	cysteamine/cystamine	71
+17	GSH/GSSG/DTT/beta mercaptoethanol	71
+18	DL-DTT	71
+19	GSH/GSSG/DTT	71
+20	Cystamine	71
+21	DTT/cystamine	71
+22	Not specified	71
+24	DL-cystine	71
+27	DTT/cysteine	71
+28	GSSG/beta mercaptoethanol	1037
+29	DTT/PMSF	1037
+31	Dimethyl Sulfoxide (DMSO)	1037
+32	DTT/cysteine/cystine	1037

@@ -1,0 +1,761 @@
+protein_id	user_id	family_id	name	name_short	structure_notes	notes	hits
+38	4	24	Plasminogen Activator Inhibitor-1	PAI-1	Mainly Beta Roll + Alpha Beta 2-Layer Sandwich		2148
+39	4	25	3,5-cyclic nucleotide phosphodiesterase 7A	PDE7A1		Gene encodes only the catalytic domain of the protein from residues 147-482.	2806
+40	4	24	Neuroserpin	Neuroserpin	Mainly Beta Roll + Alpha Beta 2-Layer Sandwich		1822
+41	4	33	ProCathepsin K	ProCathepsin K	consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn		2287
+42	4	27	Extracellular Superoxide Dismutase	EC-SOD	Immunoglobulin-like beta-sandwich		2215
+43	4	28	LMW Urokinase Plasminogen Activator	LMW uPA	Mainly Beta Barrel	residues 179-431 of urokinase type plasminogen activator only.	2230
+44	4	29	Growth Hormone	GH	Mainly Alpha Up-down Bundle		2786
+45	4	24	Alpha-1-Antitrypsin	A1AT	Mainly Beta Roll + Alpha Beta 2-Layer Sandwich		2256
+46	4	24	Alpha-1-Antichymotrypsin	ACT	Mainly Beta Roll + Alpha Beta 2-Layer Sandwich		2278
+47	4	24	C1-Inhibitor	C1-Inhibitor	Mainly Beta Roll + Alpha Beta 2-Layer Sandwich		2144
+48	4	30	Aequorin	Aequorin	Mainly Alpha Orthogonal Bundle		2511
+49	4	31	P53 tumor suppressor	p53	Tetramerization domain: core: 4 helices; bundle\nDNA binding (core) domain: sandwich; 9 strands in 2 sheet; greek-key; subclass of immunoglobin-like fold		2021
+50	4	32	Interleukin-13	IL-13	short-four-helix-bundle		2260
+52	4	34	Mucrofibrase 1	Mucrofibrase 1	Homology with rat Trypsin: barrel, closed; n=6, S=8; greek-key duplication: consists of two domains of the same fold		2034
+53	4	35	Lysozyme	Lysozyme	Mainly Alpha Orthogonal Bundle		2803
+54	4	36	Glutamyl-tRNA reductase	GluTR	Structural information based on Glutamyl-tRNA reductase from Methanopyrus kandleri.\n\nN terminal catalytic domain: alpha+beta sandwich with antiparallel beta-sheet \nMiddle domain: 3 layers, a/b/a; parallel beta-sheet of 6 strands, order 321456\nDimerization domain: 6 helices, homodimer of 3-helical domains	The solved structure is for Glutamyl-tRNA reductase from Methanopyrus kandleri	2009
+55	4	64	Macrophage Metalloelastase (MMP-12)	MMP-12	MMP-12 contains mixed beta sheet with connection over free side of the sheet.	Refolding only of the catalytic domain (Gly 106-Asn 268).	2537
+56	4	38	Prochymosin	Prochymosin	Mainly Beta Barrel		2316
+57	4	201	Arg specific Gingipain 1	RGP-1	Mainly parallel beta sheets (beta-alpha-beta units)	Catalytic domain only.	2250
+58	4	40	Bothropstoxin-I	Bothropstoxin-I	Common core: 2 helices, disulphide-linked, and a calcium-binding loop.	Structural information based on homolog piratoxin-II.	2156
+59	4	28	Granzyme K	GzmK	barrel, closed; n=6, S=8; greek-key\nduplication: consists of two domains of the same fold		2166
+60	4	41	Epidermal Growth Factor	EGP	disulphide-bound fold; contains beta-hairpin with two adjacent disulphides		2844
+61	4	38	Rhizopuspepsinogen	Rhizopuspepsinogen	barrel, closed; n=6, S=10, complex topology		1895
+62	4	42	Ribonuclease A	RNase A	contains long curved beta-sheet and 3 helices		2645
+63	4	43	ATP synthase F1 beta subunit	ATP synthase F1 beta subu	C domain: core: 4-5 helices; bundle; left-handed superhelix\n\nN domain: barrel, closed; n=6, S=8; greek-key\n\nCentral domain: 3 layers: a/b/a, parallel or mixed beta-sheets of variable sizes		2252
+64	4	32	Interleukin-2	IL-2	Mainly alpha up-down bundle.\ncore: 4 helices; bundle, closed; left-handed twist; 2 crossover connections		2259
+65	4	26	Pro-Falcipain-2	pro-Falcipain-2	Consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn - based on structure of Cathepsin V.		2315
+66	4	45	Brain-derived neurotrophic factor	BDNF	Mainly Beta Ribbon		2378
+67	4	46	Exopolyphosphatase	Exopolyphosphatase			2187
+68	4	47	Kringle 5	pK5	Disulphide-rich fold; nearly all-beta	Kringle 5 fragment from Plasminogen.	46
+69	4	29	Interleukin-6	IL-6	Core: 4 helices; bundle, closed; left-handed twist; 2 crossover connections		2399
+70	4	33	Interleukin-13 receptor alpha-2	IL-13R alpha 2	Contains one fibroectin type-3 domain: sandwich; 7 strands in 2 sheets; greek-key\nSome members of the fold have additional strands	Extracellular domain only.  Information presented here is based on the human protein, however refolding record is for the canine protein.  The two proteins share 62.6% amino acid identity.	1706
+71	4	29	Leptin	Leptin	core: 4 helices; bundle, closed; left-handed twist; 2 crossover connections		2417
+72	4	45	Neurotrophin-3	NT-3	disulphide-rich fold; common core is all-beta\nmainly beta-ribbon		1905
+73	4	32	Interleukin-4	IL-4	core: 4 helices; bundle, closed; left-handed twist; 2 crossover connections		1963
+74	4	49	Interferon gamma	IFN gamma	core: 4 helices; bundle, closed; left-handed twist; 2 crossover connections\ncontains an additional helix in one of the crossover connections		2934
+75	4	50	Proinsulin	Proinsulin	nearly all-alpha\ncan be classified as disulphide-rich		2203
+76	4	51	Bowman-Birk Inhibitor	BBI	Mainly Beta Ribbon.  Disulphide-bound fold; contains beta-hairpin with two adjacent disulphides	Structural information is based on Bowman-birk inhibitor from pea seeds, and the homologue, Bowman-Birk rice bran trypsin inhibitor	1910
+77	4	192	CapZ alpha-2 subunit	CapZ alpha-2 subunit		This protein exists as a heterodimer with a CapZ beta subunit	2093
+78	4	191	CapZ beta-1 subunit	CapZ beta-1 subunit		This protein exists as a heterodimer with a CapZ alpha subunit	2001
+79	4	38	ProCathepsin D	ProCatD	Mainly beta barrell\nduplication: consists of two similar barrel domains\nN-terminal: barrel, partly opened; n*=6, S*=10		1984
+80	4	39	Interleukin-1 beta-converting enzyme	ICE	3 layers, a/b/a; core: parallel beta-sheet of 4 strands, order 2134\nAlpha Beta 3-Layer(aba) Sandwich \n\nProtein is expressed as a 45kDa protein which auto processes to 10kDa and 20kDa peptides which form a heterodimer.		2401
+81	4	53	DNA Polymerase Delta	DNA Polymerase Delta			1998
+82	4	54	Acetylcholine Receptor alpha-Subunit	AChR		The full Acetylcholine Receptor alpha-Subunit consists 437 residues.  The protein studied here represents the N terminal extracellular domain (residues 1-209).	2765
+83	4	55	Serum Retinol Binding Protein	RBP	Barrel, closed or opened; n=8, S=12; meander		1865
+84	4	56	H-ras	H-ras	Core: mixed beta-sheet of 6 strands, order 231456; strand 2 is antiparallel to the rest.\n\nAlpha Beta 3-Layer(aba) Sandwich		1936
+85	4	28	Kallikrein-4/Prostase	Kallikrein-4/Prostase	Barrel, closed; n=6, S=8; greek-key\nduplication: consists of two domains of the same fold	This protein has been constructed to contain the N-terminal propeptide of prostate specific antigen such that the product is self-processing.	2213
+86	4	57	Prion	Prion	Beta-alpha-beta-alpha(2); antiparallel beta-ribbon.\n\nMainly Alpha Orthogonal Bundle.		2390
+87	4	32	Interleukin-5	IL-5	Core: 4 helices; bundle, closed; left-handed twist; 2 crossover connections arranged into an intertwined homodimer.\n		1981
+88	4	58	Phospholipase C	PLC	Mainly Alpha Orthogonal Bundle 	The protein was expressed with the pre- (24 residues) and propeptides (14 residues) intact.  The mature protein is 245 residues.	1917
+89	4	59	Carboxypeptidase Y	CPY	Domain 1: Alpha Beta 3-Layer(aba) Sandwich\nDomain 2: Mainly Alpha \tUp-down Bundle 	Structural information based on the protein from Saccharomyces cerevisiae.	2111
+90	4	60	Transposase Tc1A	Transposase Tc1A			1783
+92	3	61	Methionine Adenosyltransferase	MAT	duplication: consists of 3 similar intertwined domains \nstructural repeat: beta-alpha-beta(2)-alpha-beta; two layers, alpha/beta \n4.\t		1863
+93	3	62	Erythromycin C-12 Hydroxylase	EryK	all alpha proteins, multihelical 		2002
+94	3	63	Cardiotoxin analogue III	CTX III	disulphide-rich fold: nearly all-beta 		2256
+95	3	33	Levansucrase	Levansucrase			1637
+96	3	64	Human Collagenase-3 (MMP-13)	Collagenase-3	contains mixed beta sheet with connection over free side of the sheet		2372
+97	3	33	UvrA Protein	UvrA Protein			2085
+99	3	65	Alpha-fetoprotein	AFP	multihelical; one domain consists of two similar disulphide-linked subdomains	Structure solved for the homologue serum albumin from human.	2275
+100	3	33	Phage lambda terminase enzyme	phage lambda			1923
+101	3	66	Creatine kinase	CK	Mainly antiparallel beta sheets (segregated alpha and beta regions)	SCOP classifies Creatine kinase, N-domain from Pacific electric ray (Torpedo californica). Species id: 81820. Family: Guanido kinase N-terminal domain (48035).	2452
+102	3	33	Thermopsin	Thermopsin		this needs to be completed	1876
+103	3	47	Urokinase-type plasminogen activator	uPA	disulphide-rich fold; nearly all-beta\nUsually dominated by metal ligand, heme, and/or disulfide bridges 		1826
+104	3	67	Phosphomannose isomerase	PMI	one turn of helix is made by two pairs of antiparallel strands linked with short turns \nhas appearance of a sandwich of distinct architecture and jelly-roll topology 		2107
+105	3	40	Phospholipase A2	PLA2	common core: 2 helices, disulphide-linked, and a calcium-binding loop	The species naja naja was used to obtain protein information however the protein decribed in the journal was from naja naja naja.	1889
+106	3	47	Tissue-type plasminogen activator	t-PA	disulphide-rich fold; nearly all-beta 		2390
+107	3	68	Heparin-binding neurite-promoting factor	HBNF	disulphide-rich fold; all-beta: 3 antiparallel strands 		1892
+108	3	33	Dehydrodolichyl diphosphate synthase	DDPPs		Putative dehydrodolichyl diphosphate synthetase: SRT1_YEAST	2147
+109	3	70	Dihydrofolate Reductase	DHFR	3 layers: a/b/a; mixed beta-sheet of 8 strands, order 34251687; strand 8 is antiparallel to the rest 		1996
+111	3	33	Zona pellucida glycoprotein-C	bmZPC			1829
+112	3	33	Casbene synthase	Casbene			2548
+113	3	26	Procathepsin L	Cathepsin L	consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn 		2371
+114	3	71	Stefin B	Stefin B	Core: alpha-beta(4); helix packs against coiled antiparallel beta-sheet 		1959
+115	3	33	Lutropin Receptor	LHR			1810
+116	3	72	Human immunodeficiency virus type-1 protease	HIV-PR	barrel, closed; n=6, S=10, complex topology		2270
+117	3	71	Cystatin C	Cystatin C	Core: alpha-beta(4); helix packs against coiled antiparallel beta-sheet 		2152
+119	3	73	Beta-glucosidase	Zm-p60.1	contains parallel beta-sheet barrel, closed; n=8, S=8; strand order 12345678 \nthe first seven superfamilies have similar phosphate-binding sites 		2124
+120	3	74	Maltose-binding protein	MalE or MBP	consists of two similar intertwined domain with 3 layers (a/b/a) each: duplication \nmixed beta-sheet of 5 strands, order 21354; strand 5 is antiparallel to the rest 		2002
+121	3	33	Ribosomal protein P0	P0			1835
+122	3	76	1-aminocyclopropane-1-carboxylate synthase	ACC synthase	main domain: 3 layers: a/b/a, mixed beta-sheet of 7 strands, order 3245671; strand 7 is antiparallel to the rest 		2637
+123	3	75	Tissue inhibitor of metalloproteinase	TIMP-1	barrel, closed or partly opened n=5, S=10 or S=8; greek-key 		1897
+124	3	33	Polyhydroxyalkanoate synthase	PHA synthase		homologue was used 	1925
+125	3	33	Penicillin-Binding Protein 2a	PBP	SCOP classification - different classifications for N-terminal, middle and C-terminal domains.\n\n	homologue was used	2120
+126	3	33	Monogalactosyldiacylglycerol synthase	MGDG synthase			1728
+128	3	78	Keratinase	Keratinase	Mainly parallel beta sheets (beta-alpha-beta units). 3 layers: a/b/a, parallel beta-sheet of 7 strands, order 2314567; left-handed crossover connection between strands 2 & 3 	scop details are based on homologue	1871
+130	3	77	Bone morphogenetic protein-2	BMP-2	Usually dominated by metal ligand, heme, and/or disulfide bridges. disulphide-rich fold; common core is all-beta 		2218
+131	3	33	Alpha-tocopherol transfer protein	alpha-TTP			2479
+132	3	33	Lupanine hydroxylase	Lupanine hydroxylase			1562
+133	3	33	Adrenomedullin	AM			2020
+135	3	26	Cysteine proteinase B	CPB	Mainly antiparallel beta sheets (segregated alpha and beta regions). consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn 	scop information is based on homologue.	2122
+137	3	33	D-ornithine aminomutase E component	OraE			1900
+138	3	33	Eco29kI restriction endonuclease	Eco29kI			2280
+139	3	79	Dengue virus type 2 envelope domain III	DEN	Does not include proteins in the immune system. 2 intertwined domains; all-beta and alpha+beta.		2257
+140	3	80	Lectin	ECL	sandwich; 12-14 strands in 2 sheets; complex topology 		2393
+141	3	33	Enteropeptidase	Enteropeptidase			2005
+144	3	81	Lipase	lip4	Mainly parallel beta sheets (beta-alpha-beta units). core: 3 layers, a/b/a; mixed beta-sheet of 8 strands, order 12435678, strand 2 is antiparallel to the rest.	all scop and structral details are from the homologue 	2092
+145	3	9	High affinity immunoglobulin epsilon alpha chain	FcEpsilonRI-alpha	sandwich; 7 strands in 2 sheets; greek-key \nsome members of the fold have additional strands 	structural and scop details are from a fragment of the extracellular domain.	1938
+146	3	82	Major histocompatibility complex class I	MHC-1	Mainly antiparallel beta sheets (segregated alpha and beta regions), dimeric	structural and scop details are based on human and the Short-tailed grey opossum	2226
+147	3	83	Flavohemoprotein (Globin domain)	Flavohemoprotein	core: 6 helices; folded leaf, partly opened	scop and structral details are from Vitreoscilla stercoraria	1928
+148	3	84	Beta-lactamase inhibitory protein II	BLIP-II	consists of seven 4-stranded beta-sheet motifs; meander 		1649
+149	3	85	Prothermolysin	Prothermolysin	Mainly antiparallel beta sheets (segregated alpha and beta regions). contains mixed beta sheet with connection over free side of the sheet 		1981
+150	3	86	Lignin peroxidase	Lip	multihelical; consists of two all-alpha domains 		1884
+151	3	33	Decorin	Decorin			2003
+152	3	87	Glucoamylase	Glucoamylase	multihelical; up to seven alpha-hairpins are arranged in closed circular array 		1700
+153	3	64	Matrilysin	MMP-7	Mainly antiparallel beta sheets (segregated alpha and beta regions). contains mixed beta sheet with connection over free side of the sheet		2817
+155	3	89	Vascular endothelial growth factor B	VEGF-B	Usually dominated by metal ligand, heme, and/or disulfide bridges. disulphide-rich fold; common core is all-beta 		2059
+156	3	90	Bcl-2	Bcl-2	Does not include proteins in the immune system. multi-helical domains of various folds which is thought to unfold in the membrane 		1975
+157	3	33	Quinolinate synthetase	QS			2049
+158	3	33	A-protein	A-protein			1593
+159	3	33	PorB (class 3) porin	PorB			1971
+160	3	33	Hepatitis B virus X antigen	HBx			1564
+161	3	91	Bryodin 1	BD1	Mainly antiparallel beta sheets (segregated alpha and beta regions). contains mixed beta-sheet 		1747
+162	3	92	Cyclomaltodextrin glucanotransferase	CGT	sandwich; 7 strands in 2 sheets; greek-key \nsome members of the fold have additional strands. 	Cyclodextrin glycosyltransferase, C-terminal domain from Bacillus circulans, different strains, sandwich; 7 strands in 2 sheets, greek-key \nvariations: some members have additional 1-2 strands to common fold , Family: Starch-binding domain [49453].	2188
+163	3	86	Manganese peroxidase	MN peroxidase	multihelical; consists of two all-alpha domains 		1975
+164	3	26	Cathepsin B	Cathepsin B	Mainly antiparallel beta sheets (segregated alpha and beta regions). consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn 		2123
+166	3	93	Pyruvate formate-lyase activating enzyme	PFL	Mainly parallel beta sheets (beta-alpha-beta units).  contains: barrel, closed; n=10, S=10; accommodates a hairpin loop inside the barrel 		2097
+167	3	94	Human chorionic gonadotropin alpha subunit	hCG-alpha	Usually dominated by metal ligand, heme, and/or disulfide bridges. disulphide-rich fold; common core is all-beta		1966
+168	3	95	ATP synthase epsilon chain	ATPase epsilon	2 helices; antiparallel hairpin, left-handed twist.\npseudobarrel: sandwich of two sheets packed at a positive interstrand angle and interconnected with many short turns 		1903
+169	3	33	Arginine Deiminase	AD			1914
+172	3	33	CD14	CD14			1585
+173	3	33	Prolactin I	PRL-I		homologue was used: Oreochromis mossambicus	2000
+174	3	33	Prolactin II	PRL-II		homologue was used: Oreochromis mossambicus	1896
+175	3	33	DevS Histidine Protein Kinase	DevS			2217
+176	4	72	Retropepsin	Retropepsin	dimer of identical mono-domain chains, each containing (6,10) barrel\nbarrel, closed; n=6, S=10, complex topology		1878
+177	3	33	Outer membrane protein OprM	OprM			2084
+179	3	33	Lectin-like oxidised LDL receptor	LOX-1			1932
+180	3	50	Insulin-like growth factor II	IGF2	Usually dominated by metal ligand, heme, and/or disulfide bridges\nnearly all-alpha \ncan be classified as disulphide-rich		2119
+181	3	33	Testis expressed transcript protein	BJ-HCC-2 protein			1514
+182	3	96	Toxin 5	Cn5	Usually dominated by metal ligand, heme, and/or disulfide bridges.  disulphide-bound fold; contains beta-hairpin with two adjacent disulphides	scop details are from Centruroides sculpturatus ewing, variant 3	2054
+183	3	82	CD1a	CD1a	Mainly antiparallel beta sheets (segregated alpha and beta regions), dimeric	CD1 family: MHC class I-like transmembrane glycoprotein\n	2207
+184	3	82	CD1b	CD1b	Mainly antiparallel beta sheets (segregated alpha and beta regions), dimeric	Family CD1: MHC class I-like transmembrane glycoproteins	2117
+185	3	97	Apolipoprotein C-II	Apo-CII	Peptides and fragments. Not a true class		1998
+186	7	9	Fibroblast growth factor receptor	FGFR	Residues 147-249 of full length FGFR (3 domains in total)	D2 is 1 of 3 immunoglobulin-like domains.\nMW, chain length & pI calculated from sequence given in K.-W. Hung et al (2004).\nSCOP and UniProt entries are for FGFR2.\nPDB file 1DJS shows structures of domains D2 and D3	2095
+187	3	33	Uncoupling protein 2	UCP2		Contains 3 Solcar repeats.	2220
+189	3	33	Programmed cell death protein 1	PD1		PD-1	2077
+190	3	77	Myostatin	MSTN	Disulfide-linked homodimer	Identical sequence among human, rat, chicken and turkey species.	2038
+193	7	28	Trypsinogen	Trypsinogen		Zymogen (precursor to Trypsin)\nsignal peptide - residues 1-15 \npropeptide - residues 16-23        (Activation peptide.)\nmature chain - residues 24-247        (Trypsin I.)	2405
+195	7	65	Human Serum Albumin Domain II	HSA-D2		MW, chain length and pI here are calculated by ExPASy ProtParam tool using domain sequence from UniProt.\n\nMW and chain length from Mao et al. (2000) differ:\n22910 Da and 197 aa.	50
+196	7	65	Human Serum Albumin Domain III	HSA-D3		MW, chain length and pI here are calculated by ExPASy ProtParam tool using domain sequence from UniProt.\n\nMW and chain length from Mao et al. (2000) differ:\n23787 Da and 205 aa.	36
+197	7	65	Human Serum Albumin Domain I	HSA-D1		MW, chain length and pI here are calculated by ExPASy ProtParam tool using domain sequence from UniProt.\n\nMW and chain length from Mao et al. (2000) differ:\n23336 Da and 197 aa.	52
+198	7	104	Phage P22 Tailspike Protein	P22 Tailspike Protein	Homotrimer in native state.\nMonomer, dimer and protrimer intermediates during folding.\nStructure solved in two segments.	Chain length is from Lefebvre et al. (2004)	5
+199	7	33	Keratoepithelin	Keratoepithelin	Fas-1 domain homology model:\nClout N and Hohenester E;\nMolecular Vision 2003; 9:440-448 \n<http://www.molvis.org/molvis/v9/a56/>	Also known as:\nTransforming growth factor-beta induced protein IG-H3\nBeta IG-H3\nRGD-containing collagen associated protein\nRGD-CAP (in chicken and pig)\n\nMember of fas-1 domain superfamily	1691
+200	7	33	Calcium Channel Beta1b-subunit	Beta1b-subunit		Structure homology model:\nhttp://swissmodel.expasy.org/repository/sms.php?sptr_ac=P54283\n\nEMBL accession number of corresponding mRNA: X61394	1994
+201	7	77	Myostatin: unprocessed	MSTN(up)	Disulfide-linked homodimer	Also known as growth/differentiation factor 8, (GDF-8).	20
+203	7	33	APG8a (At4g21980) autophagy protein	APG8a	High dispersion of NMR signals suggests high beta-strand content.	MW, chain length and pI calculated by ProtParam using sequence from UniProt.\n\nChae et al. (2004) cite different MW and chain length of 13900 and 122 respectively.	2141
+204	7	33	Voltage-dependent Anion Channel 1	rhVDAC1		Recombinant Human Voltage Dependent Anion-selective Channel 1 (rhVDAC1) is an outer mitochondrial membrane porin.\n\nMolecularity has not been confirmed.	2152
+205	7	33	CipA scaffoldin	CipA		X-module: accessory module. \nMW, chain length and pI calculated by ProtParam using residues 1692-1785 from UniProt as described in Adams et al. (2004), who cite a different MW prediction of 11117.5 for the CipA-X construct they use.	1545
+207	2	98	Single Chain Fv	ScFv	Mainly Beta-sheet		2490
+210	22	28	Granzyme B	GrB			2356
+211	71	108	Outer membrane protein C	OmpC		Mature functional form is a homotrimer. Protein expressed and purified without N-terminal signal sequence (21 a.a.)	2024
+212	76	109	T-cell receptor	TCR			2332
+213	71	98	scFv mAbB23, specific for apolipoprotein B-100	scFv mAbB23			1828
+214	71	98	Single chain Fv HyHEL-10	scFv HyHEL-10			1303
+215	71	92	Der f2	Der f2	Immunoglobulin-like beta-sandwich fold\nsandwich contains 7 strands in 2 sheets; greek-key, some members of the fold have additional strands 		1848
+216	71	33	EnterotoxinA C-terminal domain	TcdA	49% amino acid identity and 63% homology with cytotoxin B (TcdB)	Full protein 2170a.a. long, 3 functional domains: 1)N-terminal enzymatic domain with glucosyltransferase activity, 2)Central domain involved in membrane translocation, 3)C-terminal ligand-binding domain binds host cell surface oligosaccharides	1728
+217	71	33	Cytotoxin B C-terminal domain	TcdB	Full protein 270kDa, 49% amino acid identity and 63% homology with cytotoxin B (TcdB)	Full protein 2365a.a. long, 3 functional domains: 1)N-terminal enzymatic domain with glucosyltransferase activity, 2)Central domain involved in membrane translocation, 3)C-terminal ligand-binding domain binds host cell surface oligosaccharides	1996
+218	71	111	Diisopropylfluorophosphatase	DFPase	6-bladed beta-propeller fold [Scop ID:50938] \nconsists of six 4-stranded beta-sheet motifs; meander 		1796
+220	71	108	Membrane channel porin	Porin	Homotrimer - one subunit folds into (16,20) barrel \nTransmembrane beta-barrels - not a true fold, gathers together transmembrane barrels of different (n,S) \nr		1832
+221	71	33	Human Papillomavirus 16 E7-MS2 polymerase	HPV16 E7MS2		Fusion protein: Human papillomavirus Type 16 E7 protein (without first 8 residues) fused to 100 N-terminal amino acids of bacteriophage MS2 polymerase	0
+222	71	33	HPV16 E7-MS2 polymerase fusion	HPV16 E7MS2		Fusion protein: Human papillomavirus Type 16 E7 protein (without first 8 amino acids) fused to first 100 amino acids of bacteriophage MS2 polymerase	2182
+223	71	60	HIV-1 Reverse transcriptase	HIV-1 RT	2 subunits non-convalently linked: p66 and p51, with identical N-termini, p66 has small peptide (p15) cleaved from C-terminus		2083
+224	71	112	Alpha-amylase	Alpha-amylase	Fold: Glycosyl hydrolase domain - folded sheet; greek-key \nSuperfamily: Glycosyl hydrolase domain - this domain is C-terminal to the catalytic beta/alpha barrel domain \n		2339
+225	71	113	IgG (MAK33) CH2 domain	MAK33 CH2	Immunoglobulin-like beta-sandwich; 7 strands in 2 sheets; greek-key, some members of the fold have additional strands 	constant domain of the murine monoclonal antibody MAK33	1959
+226	71	33	Manganese-binding protein	MntC			1852
+227	71	77	Ykt6p SNARE	YKT6p			2368
+228	71	114	Outer membrane protein A	OmpA	Structure of transmembrane domain (residues 1-171) only solved		2491
+229	71	114	Outer membrane protein X	OmpX			2032
+230	71	32	Daniplestim (interleukin-3 variant)	SC-55494	Primary sequence: (64% homology to human IL3)\nANCSIMIDEI IHHLKRPPNP LLDPNNLNSE DMDILMERNL RTPNLLAFVR AVKHLENASG IEATLRNLQP CLPSATAAPS RHPIIIKAGD WQDFREKLTF YLVTLDQAQD QQ\n\n		2042
+231	71	98	T-cell receptor 2B4 single chain Fv	2B4 TCR-scFv			2135
+232	71	35	Gamma-crystallin C	CRYGC			2046
+233	71	115	Decay accelerating factor (CD55)	DAF			2049
+234	71	172	Apical membrane antigen 1	AMA1			2477
+235	71	98	T lymphocyte activation antigen CD86/B7-antigen	CD86/B2-7	Immunoglobulin-like beta-sandwich fold - \nsandwich; 7 strands in 2 sheets; greek-key \nsome members of the fold have additional strands \n	Receptor binding domain only (aa 1-109)	1781
+236	71	98	Cytotoxic T-lymphocyte protein 4	CLTA-4			2117
+237	71	32	Interleukin-21	IL-21			1385
+238	71	33	Cysteine protease 14	Tr-cp14			2235
+239	71	89	Vascular endothelial growth factor	VEGF		Alternative splice isoform of VEGF	2227
+241	71	117	Fel d 1	Fel d 1	- Two 18kDa heterodimers, non-covalently linked \n- Each heterodimer comprises two chains, encoded by separate genes and linked by 3 disulfide bridgeds.\n- Chain 1 - 8kDa, Chain 2 - 10kDa	SCOP ID: 101359\n	2041
+242	71	98	NK cell activating receptor NKp44	NKp44		Natural killer cell activating receptor NKp44	1970
+243	71	118	TGF-beta receptor type II	TGFR-2			1992
+244	71	33	Glucagon-like peptide 1 receptor	GLP-1 receptor			2201
+245	71	29	Prolactin	Prolactin		30 residue pro-sequence (signal sequence), mature chain length 199 residues	2102
+246	71	86	Tobacco anionic peroxidase	TOP		Classical plant (class III) peroxidase subfamily	1838
+247	90	119	Human Placental Bikunin	Bikunin	Glycosylated at up to 2 sites		2240
+248	71	120	Prolactin receptor extracellular domain	Prolactin receptor ECD			1983
+249	71	24	Pigment epithelium-derived factor	PEDF			2062
+250	71	67	Picorain 3C (Protease 3C)	HRV14 3C	Part of human rhinovirus 14 polyprotein (aa.1538-1719)		1688
+253	117	121	Androgen receptor (AR)-associated coregulator 70	ARA70			1789
+254	120	33	oxaloacetate decarboxylase, apha-subunit	AfOadA			1916
+255	118	98	myelin oligodendrocyte glycoprotein	MOG	PDB ID code: 1PY9\nTitle: The Crystal Structure Of An Autoantigen In Multiple Sclerosis\nCompound: Mol_Id: 1;\nMolecule: Myelin-Oligodendrocyte Glycoprotein; Chain: A; Fragment: Extracellular Domain; Engineered: Yes\nAuthors: C. S. Clements, H. H. Reid, T. Beddoe, F. E. Tynan, M. A. Perugini, T. G. Johns, C. C. Bernard, J. Rossjohn\nExp. Method: X-ray Diffraction\nClassification: Immune System\nSource: Mus musculus\nDeposition Date: 08-Jul-2003 Release Date: \t30-Sep-2003\n \nResolution [Å]: 1.80 \tR-Value: 0.201\nSpace Group: I 41 \t \nUnit Cell: \t\ndim [Å]: a 65.72 b 65.72 c 67.58\nangles [°]: alpha 90.00\tbeta 90.00 gamma 90.00\n Polymer Chains: A \tResidues: 116\nAtoms: \t1159\n		2088
+256	138	28	CLIPB14	CLIPB14			1797
+257	145	122	NLH-Rv1399c	Rv1399c			2020
+258	151	55	nitrophorins 1-4 from Rhodnius prolixus	rNP1-4	Beta barrel with heme		1608
+259	151	123	Nitrophorin from Cimex lectularius	cNP	Heme attached through cysteine		2018
+260	154	83	Myoglobin	Mb		The protein is purified as apomyoglobin, myoglobin whitout heme.	1641
+261	148	33	oxoglutarate-malate carrier	OGCP			2061
+262	134	124	Plasmodium Vivax duffy binding protein	Pv RII			1924
+263	155	114	Opacity protein B128	OpaB128	In the two-dimensional topology model of these membrane embedded proteins an eight- stranded beta-sheet conformation is predicted, with four surface-exposed loops including hypervariable regions. The trans-membrane regions are highly conserved. 		1949
+264	155	114	Opacity Protein J129	OpaJ129	In the two-dimensional topology model of these membrane embedded proteins an eight-stranded beta-sheet\nconformation is predicted, with four surface-exposed loops including hypervariable regions. The\ntrans-membrane regions are highly conserved.		1926
+265	162	125	PSC33 (Ara h 6)	PSC33 (Ara h 6)			2602
+266	164	126	Mitochondrial oxoglutarate-malate carrier protein	OGC			1926
+267	163	127	gp41 ectodomain fragment	gp41			2042
+268	163	127	gp36 ectodomain fragment	gp36			1835
+269	163	127	gp21 ectodomain fragment	gp21			2017
+270	147	33	Light harvesting complex II	LHC II	Standfuss et al. 2005, EMBO J. 24: 919-928.\npdb code: 2bhw		2043
+271	166	129	trappin-2 (elafin)	trappin-2			1797
+273	172	43	Bovine Conglutinin	BK			1
+274	176	42	Angiogenin-related protein	Angrp			2027
+275	176	42	Angiogenin-3	mAng-3			1985
+276	176	42	Angiogenin-4	mAng-4			2092
+277	176	42	Angiogenin	Ang		Construct contains synthetic gene with codon usage optimised for expression in E. coli	2058
+278	197	32	granulocyte-macrophage colony-stimulating factor	GM-CSF			2166
+279	90	132	beta-lactamase	beta-lactamase			1981
+282	71	33	Penton base protein	Penton base		X-ray structure solved 2005, no SCOP entry as yet Sept 26 2005	1760
+283	71	112	Pertussis toxin subunit 1	PTX S1	PTX is a hexamer composed of 5 distinct proteins - S1-S5 (each hexamer has 2 S4 subunits). S1 is an ADP-ribosyltransferase, known as the A promotor, distinct function from the rest of the subunits which form the B oligomer.		0
+284	71	81	Lipase from Rhizopus oryzae	ROL			2089
+285	71	119	CD4	CD4			1837
+286	71	72	HIV protease	HIV-PR			2657
+287	71	136	Tumor necrosis factor alpha	TNF-alpha			2143
+288	71	119	Tissue factor pathway inhibitor	TFPI			2269
+289	71	98	Single chain monoclonal antibody 4-4-20	SCA 4-4-20		Sequence:\n4FAB:L 4-4-20 (IG*G2A=KAPPA=) FAB FRAGMENT - FLUORESCEIN (DIANION) COMPLEX - CHAIN L\nDVVMTQTPLSLPVSLGDQASISCRSSQSLVHSQGNTYLRWYLQKPGQSPKVLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDLGVYFCSQSTHVPWTFGGGTKLEIKRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDINVKWKIDGSERQNGVLNSWTDQDSKDSTYSMSSTLTLTKDEYERHNSYTCEATHKTSTSPIVKSFNRNEC	1790
+290	71	33	Human T-cell leukemia virus type I protease	HTLV-1 protease			1992
+291	71	135	Tumor necrosis factor receptor 1	TNF-R1			1749
+292	71	135	Tumor necrosis factor receptor 2	TNF-R2			1648
+293	71	33	Beta galactoside alpha 2,6 sialyltransferase	sialyltransferase 1			2211
+295	71	64	Matrix metalloprotease 13	MMP13			2030
+296	71	85	HIV tat protein	HIV tat			2100
+297	71	29	Placental lactogen	PL			2004
+298	71	33	Retinoblastoma-associated protein	RB			1831
+299	71	9	p58 natural killer cell inhibitory receptor	p58 NK receptor	21a.a. N-terminal signal sequence not included\n\nSCOP classification: possibly an intermediate structure between the I set and FnIII domains 		2164
+300	71	82	Histocompatibility leukocyte antigen-Cw4	HLA-CW4	Heavy Chain		2067
+301	71	45	Neurotrophin-4/Neurotrophin-5	NT4/NT5			1829
+302	219	33	Aspartyl protease	OsAsp1			1734
+303	71	120	Interferon gamma receptor	IFNgamma-R	17 residue signal N-terminal sequence		1680
+304	71	33	Daunorubicin resistance protein	DrrC			1992
+305	71	33	Regulatory protein	DnrN		Daunorubicin regulatory protein	1799
+306	71	82	Human class I histocompatibility complex	HLA-A2			0
+307	71	82	Class I histocompatibility antigen HLA-A	HLA-A2			2240
+308	71	113	Beta-2-microglobulin	Beta2m			2278
+309	71	33	Magnesium chelatase D subunit	BchD	BchD (60kDa subunit) fForms a complex with BchI and BchH to form active magnesium chelatase		1595
+310	71	98	T-cell receptor A6 alpha chain	TCR-A6 alpha		Actual protein sequence has 81% homology to UniProt entry.\nSee PDB database entry 1A07 for sequence details\nProtein sequence:\n1 MQKEVEQNSG PLSVPEGAIA SLNCTYSDRG SQSFFWYRQY SGKSPELIMS IYSNGDKEDG    60\n61 RFTAQLNKAS QYVSLLIRDS QPSDSATYLC AVTTDSWGKL QFGAGTQVVV TPDIQNPDPA   120\n121 VYQLRDSKSS DKSVCLFTDF DSQTNVSQSK DSDVYITDKT VLDMRSMDFK SNSAVAWSNK   180\n181 SDFACANAFN NSIIPEDTFF PSPESS\n	1929
+311	71	98	T-cell receptor A6 beta chain	TCR-A6 beta		Full sequence greater than that in UniProt entry.\nSee PDB database entry 1A07 for details\nSequence:\n1 NAGVTQTPKF QVLKTGQSMT LQCAQDMNHE YMSWYRQDPG MGLRLIHYSV GAGITDQGEV    60\n61 PNGYNVSRST TEDFPLRLLS AAPSQTSVYF CASRPGLAGG RPEQYFGPGT RLTVTEDLKN   120\n121 VFPPEVAVFE PSEAEISHTQ KATLVCLATG FYPDHVELSW WVNGKEVHSG VSTDPQPLKE   180\n181 QPALNDSRYA LSSRLRVSAT FWQNPRNHFR CQVQFYGLSE NDEWTQDRAK PVTQIVSAEA   240\n241 WGRAD\n	1948
+312	71	193	Lumazine synthase 2	Lumazine synthase 2			1724
+313	71	82	MHC class I Mamu-A 01	Mamu-A 01			1939
+314	71	98	T-Cell receptor D10 single chain	TCR D10			2043
+315	71	138	Transcription factor Sp1	Sp1			2164
+316	71	139	Exo-beta-1,4-glucanase	Cex			1797
+317	71	33	Candidapepsin	candidapepsin			2141
+318	71	38	Pepsin A	Pepsin A	Signal sequence: aa.1-15\nPro-sequence: aa.16-59\n		2148
+319	71	33	Leukemia inhibitory factor receptor	LIF			2064
+320	71	131	CD69 Early activation antigen	CD69			2073
+321	71	140	Protein translocase SecA	SecA		SCOP Unique ID: 103644	1722
+322	71	33	Salivary allergen 1	Cte f 1			1473
+323	71	33	Interferon regulatory factor 4	IRF-4			2008
+324	71	98	scFv anti-crotoxin	scFV anti-crotoxin		UniProtID is the closest entry to the actual sequence of the VH domain(81% homology). Actual sequence is\n\nVH:\n1 maqvklqqsg aelvrsgasv klsctasgfn ikdyymnwvk qrpeqglewi gwidpengdt\n61 eyapkfqgka tmtadtssnt aylqlsslts edtavyycnv gyygssslfd ywgq\n\nVL\n1 dieltqsptt maaspgekit itcsanssis snylhwyqqk pgfspklliy rtsnlasgvp\n61 arfsgsgsgt sysltigtme aedvatyycq lgnsiprtfg ggtkleikr\n	2146
+325	71	33	p55-hGRF (truncated form of Ras-GDP exchange factor)	p55-hGRF		splice isoform of Guanine nucleotide-releasing protein - 489 C-terminal residues of full length protein\nSequence: \n        1 mysamspfsk atldtsklyv sssftnkipd egdttpekpe dpsalskqss evsmreesdi\n       61 dqnqsddgdt etsptksptt pksvknknss efplfsynng vvmtscreld nnrsalsaas\n      121 afaiatagan egtpnkekyr rmslasagfp pdqrngdkef virraatnrv lnvlrhwvsk\n      181 hsqdfetnde lkckvigfle evmhdpellt qerkaaanii rtltqedpgd nqitleeitq\n      241 maegvkaepf enhsaleiae qltlldhlvf kkipyeeffg qgwmklekne rtpyimkttk\n      301 hfndisnlia seiirnedin arvsaiekwv avadicrclh nynavleits smnrsaifrl\n      361 kktwlkvskq tkalidklqk lvssegrfkn lrealkncdp pcvpylgmyl tdlafieegt\n      421 pnytedglvn fskmrmishi ireirqfqqt aykiehqakv tqylldqsfv mdeeslyess\n      481 lriepklpt\n	1996
+326	71	33	p55-hGRF guanine-nucleotide-releasing factor	p55-hGRF		splice isoform of Guanine nucleotide-releasing protein - 489 C-terminal residues of full length protein\nSequence: \n        1 mysamspfsk atldtsklyv sssftnkipd egdttpekpe dpsalskqss evsmreesdi\n       61 dqnqsddgdt etsptksptt pksvknknss efplfsynng vvmtscreld nnrsalsaas\n      121 afaiatagan egtpnkekyr rmslasagfp pdqrngdkef virraatnrv lnvlrhwvsk\n      181 hsqdfetnde lkckvigfle evmhdpellt qerkaaanii rtltqedpgd nqitleeitq\n      241 maegvkaepf enhsaleiae qltlldhlvf kkipyeeffg qgwmklekne rtpyimkttk\n      301 hfndisnlia seiirnedin arvsaiekwv avadicrclh nynavleits smnrsaifrl\n      361 kktwlkvskq tkalidklqk lvssegrfkn lrealkncdp pcvpylgmyl tdlafieegt\n      421 pnytedglvn fskmrmishi ireirqfqqt aykiehqakv tqylldqsfv mdeeslyess\n      481 lriepklpt\n	0
+327	71	33	Major allergen Asp F1	Asp f I/a			1841
+328	71	78	Alkaline protease	Alkaline protease		Sequence:\nALTTQRGAPW GLGSISHKGQ ASTDYIYDTS AGAGTYAYVV 100\nDTGINVNHVE FEGRASLAYN AAGGSHVDSV GHGTHVAGTI GGKTYGVAKK 150\nTNLLSVKVFQ GESSSTSIIL DGFNWAANDI VSKGRTRKAA INMSLGGGYS 200\nYAFNNAVENA FDEGVLSVVA AGNENTDASE TSPASAPNAL TVAAINRSNA 250\nRASFSNYGSV VDIFAPGQDI LSAWIGSNTA TNTISGTSMA TPHIVGLSVY 300\nLMGLENLSGP AAVTSRIKQL ATNGVVTDTR GSPNKLAYNG N    	2148
+329	71	115	Complement receptor type1	CR1	Multiple repeated "sushi" domains		2087
+330	71	89	Platelet-derived growth factor	PDGF	Heterodimer of two subunits - A and B\n5 disulfide bonds each subunit\nSubunit A: 211 residues, Subunit B: 241 residues\n	UniProtID for B subunit: PDGFB_HUMAN\npI subunit A: 9.52\npI subunit B: 9.39	2466
+331	237	141	CDC10-dependent transcription 1	CDT1			1800
+332	237	142	Minichromosome maintenance 8	MCM8			1702
+333	22	143	translation initiation factor eIF-4E	eIF-4E			2126
+338	244	144	Myotoxin alpha	MTA			2182
+339	71	33	Acutin	Acutin			2351
+340	71	33	Thrombopoietin receptor	Thrombopoietin receptor			2000
+341	71	145	Cytosolic phospholipase A2	cPLA2			2065
+342	71	120	Ciliary neurotrophic factor receptor alpha	CNTFRalpha		SCOP ID is 110061	2409
+346	71	64	Neutrophil collagenase	MMP8			2149
+347	71	108	Major outer membrane protein P.IB	Porin (class3)			1816
+348	71	64	Matrix metalloprotease 19	MMP19			2161
+349	71	33	Der f 1	Der f 1			2236
+350	71	70	Dihydrofolate reductase-thymidylate synthase	TS-DHFR			2129
+351	71	33	Chitin deacetylase	Chitin deacetylase			2124
+352	71	33	Insulin-like growth factor binding protein 3	IGFBP-3			1887
+353	71	33	Early protein GP1	GP1			1395
+354	71	83	Haemoglobin alpha subunit	Hb			1875
+355	71	146	Cytomegalovirus protease	CMV PR			2003
+356	254	120	Growth Hormone Receptor	GHR			1668
+357	254	33	A disintegrin and metallopotease with th	ADAMTS13			0
+358	254	33	A disintegrin-like and metalloprotease with thrombospondin type 1 motif, 13	ADAMTS13			0
+359	254	33	ADAMTS13	ADAMTS13			2175
+360	254	120	Erythropoietin Receptor	EPOR			2288
+361	71	32	Macrophage colony-stimulating factor	MCSF			2188
+362	254	78	Subtilisin BPN	Subtilisin BPN			2427
+363	254	147	Protein Kinase C	PKC			2031
+364	71	77	Transforming growth factor beta 2	TGFbeta2			2168
+365	254	148	RNA Dependent RNA Polymerase	RdRp	n/a	n/a	2103
+366	254	149	Pseudomonas sp. MIS38 Lipase	PML	n/a	n/a	2032
+367	71	82	Human leukocyte antigen DR2 alpha chain	HLA DR2 alpha	\n	n/a	2517
+368	71	82	Human leukocyte antigen DR4 beta chain	HLA DR4 beta	n/a	n/a	1953
+369	254	33	Hepatitis C virus core protein	HCcAg	n/a	n/a	2665
+371	254	33	AtMinD1	AtMinD1	n/a	n/a	2080
+373	254	149	SIK W1 lipase	SIK W1 lipase	n/a	n/a	1697
+374	254	150	Cell division topological specificity factor	EcMinE	n/a	n/a	1951
+375	71	82	Human leukocyte antigen DR3 beta chain	HLA DR3 beta	n/a	n/a	1969
+376	71	82	Human leukocyte antigen DR2 beta chain	HLA DR2 beta	n/a	n/a	2333
+377	71	82	Activated B cell RT1.B alpha chain	RT1.B	n/a	n/a	1225
+380	71	82	RT1 class II histocompatibility antigen	RT1.B beta	n/a	n/a	1732
+381	71	82	MHC class II antigen RT1.D alpha chain	RT1.D alpha	n/a	n/a	2109
+382	71	82	MHC class II antigen RT1.D beta chain	RT1.D beta	n/a	n/a	1890
+383	254	33	Mitochondrial Release Factor 1	MRF1	n/a	n/a	1941
+384	254	151	Streptavidin	SCD	n/a	n/a	2104
+385	254	152	Cyclophilin, Variant A	Cyclophilin A	n/a	n/a	2360
+386	254	153	Indole 3-glycerol phosphate synthase	IGPS	n/a	n/a	2046
+392	254	33	Ribosomal protein P1-like protein	Ribosomal protein P1-like	n/a	n/a	1561
+393	254	33	Type 1 ribosome-inactivating protein musarmin le	MU1	n/a	n/a	1860
+394	254	33	Yersiniabactin transcriptional regulator	YbtA	n/a	n/a	1980
+395	254	56	Geranylgeranylated Rab7 protein	Rab7	n/a	n/a	1984
+396	71	33	Olfactory receptor 5	OR5	n/a	n/a	1996
+397	254	49	Interferon Alpha 2a	INF-alpha 2a	n/a	n/a	2173
+398	71	33	Teratocarcinoma-derived growth factor 1	TDGF1	n/a	n/a	1877
+399	71	33	Cripto	Cripto	n/a	n/a	868
+402	254	113	Human Leukocyte Antigen DR2	HLA DR2	Alpha Polypeptide Chain	n/a	2020
+404	71	98	Single chain Fv 1E4 (anti-preS1 of hepatitis B virus)	scFv 1E4	n/a	n/a	1979
+405	254	33	Prohibitin	Prohibitin	n/a	n/a	2057
+406	71	33	Outer membrane protein Class 5 protein	Opc	n/a	n/a	2044
+408	254	33	Outer membrane protein 21	Omp21	n/a	n/a	2099
+410	254	33	5-hydroxytryptamine 4 receptor	5-HT-4	n/a	n/a	2322
+411	254	33	Leukotriene B4 receptor 1	BLT1	n/a	n/a	1523
+412	254	33	Pyrimidine dimer DNA glycosylase	Pyrimidine dimer DNA glyc	n/a	n/a	1474
+413	254	155	RecA protein	RecA protein	Scop class defined as Low Resolution Protein Structures (not a true class). 	n/a	798
+414	254	155	Rad51A protein	Rad51A	Scop class defined as Low Resolution Protein Structures (not a true class). 	n/a	1729
+415	254	155	Rad51B Protein	Rad51B	Scop class defined as Low Resolution Protein Structures (not a true class). 	n/a	1688
+416	254	156	Secreted protein acidic and rich in cysteine	SPARC	n/a	n/a	1968
+417	254	157	Beta crystallin B1	BB1	n/a	n/a	2033
+418	254	157	Beta crystallin A3	BA3	n/a	n/a	1960
+419	254	157	Beta crystallin A1	BA1	n/a	n/a	1783
+420	254	157	Beta crystallin A4	BA4	n/a	n/a	1746
+421	254	33	Translocase of the outer mitochondrial membrane Tom40	TOM40	n/a	n/a	1972
+422	254	56	Cell division control protein 42 homolog	Cdc42	n/a	n/a	2082
+423	254	33	UL82as	UL82as	n/a	n/a	1314
+424	254	158	Adrenodoxin	Adx	n/a	n/a	1958
+425	254	159	Integrin beta-2	Integrin beta-2	n/a	n/a	1784
+427	254	160	RNA polymerase	RNAP	n/a	n/a	2390
+428	254	161	RNA polymerase sigma factor rpoD	sigma70	n/a	n/a	2167
+429	254	33	Culture Filtrate Protein 10	CFP-10	n/a	n/a	2010
+430	71	162	CREB-binding protein	CBP	n/a	n/a	2025
+432	254	33	Tumor suppressor p16	p16	n/a	n/a	1738
+433	71	42	Ribonuclease 2	RNase2	Also called eosinophil-derived neurotoxin	n/a	2215
+434	71	163	De novo designed protein - TIM barrel	TIM	TIM barrel structure - 8 fold repeats of a loop-beta-loop-alpha motif	n/a	1465
+435	254	33	P-Glycoprotein	Human	n/a	n/a	1852
+436	254	33	Tax	Tax	n/a	n/a	1164
+437	254	164	Fibritin	Fibritin	SCOP Class: coiled-coil proteins, not a true class	n/a	1928
+438	254	165	Outer Membrane Phospholipase A	OMPLA	n/a	n/a	1970
+439	71	82	HLA class I histocompatibility antigen B	HLA B44	n/a	n/a	2050
+440	254	131	Natural killer cells antigen CD94	CD94	n/a	n/a	2138
+441	254	33	Bm95 protein	Bm95	n/a	n/a	2009
+442	254	33	Virulence factors putative positive transcription regulator bvgA	BvgA	n/a	n/a	1790
+443	71	166	RecJ Single-stranded DNA specific exonuclease	RecJ	n/a	n/a	2164
+444	71	112	Cyclodextrin glucanotransferase	CGTase	n/a	n/a	2059
+445	71	33	Cysteine proteinase	CP	n/a	n/a	3555
+446	254	167	Carbonic Anhydrase B	CAB	n/a	n/a	2041
+447	71	26	Cathepsin L	Cathepsin L	n/a	n/a	2166
+448	254	168	Glycine receptor alpha-1 chain precursor	GlyR	Class: Peptides and Fragments, not a true class	n/a	1993
+449	71	24	Sj Serpin	Sj Serpin	n/a	n/a	2015
+450	254	33	DNA methylguanine methyltransferase	hMGMT	n/a	n/a	1990
+451	254	169	Cell division protein ftsH	ftsH	n/a	n/a	1934
+452	254	33	Dimethylglycine dehydrogenase	Dimethylglycine dehydroge	n/a	n/a	2005
+453	254	33	GATA-type transcription factor	MED-1	n/a	n/a	2202
+454	254	33	Basic membrane protein A precursor	BmpA	n/a	n/a	2127
+455	254	33	Basic membrane protein B	BmpB	n/a	n/a	2056
+456	254	33	Basic membrane protein D	BmpD	n/a	n/a	1995
+457	254	33	Basic membrane protein C	BmpC	n/a	n/a	2165
+458	254	47	Plasminogen	Pg	n/a	n/a	2261
+459	254	170	Type II DNA topoisomerase VI	TopoVI	n/a	n/a	1815
+460	254	171	Merozoite Surface Protein-1	MSP-1	n/a	n/a	2119
+462	254	174	Receptor-type adenylate cyclase GRESAG 4	GRESAG 4.1	n/a	n/a	1911
+465	254	33	Aspartic proteinase Asp1	Asp1	n/a	n/a	2110
+466	254	176	Penicillin-binding protein 1	PBP1	n/a	n/a	1850
+467	254	177	AMP-Forming acetyl-CoA synthetase	ACS	n/a	n/a	1885
+468	254	104	Tailspike Protein	TSP	n/a	n/a	1678
+469	71	179	Annexin B1	AnnB1	n/a	n/a	2018
+470	254	180	Beta 1, 4 galactosyltransferase I	B4(Gal-T1)	n/a	n/a	2377
+471	254	33	Bivalent e23 dsFv	e23	UniprotID refers to the mouse immunoglobulin chain from which it was derived	n/a	2026
+472	254	33	Protein E7	E7	n/a	n/a	1604
+473	254	98	T cell receptor beta 2.1 chain	hVbeta2.1	n/a	n/a	1898
+474	71	33	56kDa type-specific outer membrane antigen	56kDa protein	n/a	n/a	2432
+475	254	33	Monoclonal Antibody K1	K1	n/a	n/a	1967
+476	254	33	RNA-editing complex protein MP42	TbMP42	n/a	n/a	1798
+477	71	77	Transforming growth factor beta 1	TGFB1	n/a	n/a	2100
+478	71	33	Duffy binding protein	DBP	n/a	n/a	1996
+479	254	181	Enhanced Green Fluorescent Protein	EGFP	n/a	n/a	2349
+480	254	33	Phosphorylase Kinase Gamma T	PhK-gammaT	n/a	n/a	1863
+481	254	33	3-hydroxyanthranilic acid dioxygenase	3-HAO	n/a	n/a	2425
+482	71	149	Lipase from Burkholderia cepacia	Lipase	n/a	n/a	1919
+483	71	98	Single chain Fv 125E11	125E11	n/a	n/a	2075
+484	71	64	Stromelysin 1	MMP13	Also called Metalloproteinase 3	n/a	2066
+485	71	136	B lymphocyte stimulator	BLyS/BAFF	n/a	n/a	2169
+486	71	182	3,5-cyclic phosphodiesterase B	PDE3B	SCOP Unique ID for homologue: 101442	n/a	2128
+487	71	50	Insulin	Insulin	n/a	n/a	2097
+488	71	74	Glutamate receptor 2	GluR2	n/a	n/a	2234
+489	71	179	Annexin 5A	ANV	n/a	n/a	2245
+490	71	183	Shiga toxin 1 B subunit	STB	n/a	n/a	2014
+491	71	33	ERCC1	ERCC1	n/a	n/a	2138
+492	71	33	Outer membrane protein G	OmpG	n/a	n/a	1948
+493	71	108	Outer membrane protein F	OmpF	n/a	n/a	1919
+494	71	184	Cyanovirin-N	CV-N	n/a	n/a	1836
+495	71	185	Dihydrolipoamide dehydrogenase	DHLipDH	n/a	n/a	1945
+496	71	186	Alanine--glyoxylate aminotransferase	AGT	n/a	n/a	2011
+497	71	55	Beta-lactoglobulin A	BLGA	n/a	n/a	2076
+498	71	54	test	test	n/a	n/a	2
+499	71	65	Bovine serum albumin	BSA	n/a	n/a	2490
+500	71	33	ETS1	ETS1	n/a	n/a	1961
+501	71	194	Integration host factor alpha subunit	IHFa	n/a	n/a	2115
+502	71	194	Integration host factor beta subunit	IHFb	n/a	n/a	2017
+503	71	26	Falcipain-2(prime)	Falcipain-2(prime)	Consists of one alpha-helix and 4 strands of antiparallel beta-sheet and contains the catalytic triad Cys-His-Asn - based on structure of Cathepsin V.	n/a	1882
+504	71	171	Merozoite surface protein 8	MSP-8	n/a	n/a	1663
+505	71	33	Merezoite surface protein 3	MSP3	n/a	n/a	2180
+506	71	195	Brazzein	Brazzein	n/a	n/a	2013
+507	71	196	Dihydroorotate dehydrogenase	PyrDII	n/a	n/a	1820
+508	71	33	Rec12 meiotic recombinase	Rec12	n/a	n/a	1816
+509	71	119	Beta-bungarotoxin A5 chain	Beta-Bgt A5	n/a	n/a	1833
+510	71	197	Cocaine- and amphetamine-regulated transcript peptide	CART peptide	n/a	n/a	2138
+511	71	33	Dermcidin	DCD	n/a	n/a	1730
+512	71	98	Single chain Fv MabA34, specific for human apolipoprotein A-I	MabA34	n/a	n/a	1806
+513	71	198	Profilin I	Profilin I	n/a	n/a	2041
+514	71	198	Profilin II	Profilin II	n/a	n/a	2083
+515	71	199	Botulinum neurotoxin type A	BoNT-A	See also SCOP families\nClostridium neurotoxins, "coiled-coil" domain  [58092], homologue ID 58094\nClostridium neurotoxins, the second last domain [49956], homologue ID 49960\nClostridium neurotoxins, catalytic domain \n[55512], homologue ID 55514\n \n\n	n/a	2111
+516	71	136	TNF-related apoptosis-inducing ligand	TRAIL	n/a	n/a	2198
+517	71	33	RV1120c (hypothetical protein)	RV1120c	n/a	n/a	1774
+518	71	135	Glucocorticoid-induced TNF receptor	GITR	n/a	n/a	1892
+519	71	200	Low density lipoprotein receptor	LDLR	see also SCOP ID (for homologue) 64540: EGF-type module	n/a	1955
+520	71	202	Resistin	Resistin	n/a	n/a	1844
+521	71	65	Human Serum Albumin	HSA	n/a	n/a	2082
+522	71	203	Glutamate mutase	MutES	n/a	n/a	1818
+523	2	204	CFP21	CFP21	Minimal alpha/beta hydrolase lacking peripheral secondary structures; similar to a flavodoxin-like fold	n/a	2177
+524	2	131	Low affinity IgE Fc Receptor	IgE Fc Receptor	NMR solution of 16 kDa fragment of lectin homology domain.	n/a	2453
+525	2	205	Ferric enterobactin receptor	FepA	Monomeric (22,24) barrel; ~150 N-terminal residues form a "plug" or "cork" subdomain	n/a	2186
+526	653	206	Aminoglycoside nucleotidyltransferase(2")-Ia	ANT2"	No structure is available	n/a	1913
+527	22	207	Succinate dehydrogenase	SucA	n/a	n/a	1724
+528	22	208	Isocitrate dehydrogenase	IsoCIA	n/a	n/a	2011
+529	22	209	malate dehydrogenase	MalA	n/a	n/a	1974
+530	2	210	MAP kinase phosphatase 3	MKP3	Mainly parallel beta sheets (beta-alpha-beta units). Core: 3 layers, a/b/a; parallel beta-sheet of 4 strands, order 1423	n/a	1889
+531	2	33	Alpha-1-microglobulin	alpha-1-m	n/a	n/a	1692
+532	876	211	C-phycoerythrin class I alpha chain	CpeA	n/a	n/a	1823
+533	22	212	Enterokinase light chain	EK	n/a	n/a	1811
+534	996	33	prion-like yeast protein	Sup35NM	n/a	n/a	1742
+535	996	213	NFkB p50/p65 heterodimer	NFkB p50/p65 heterodimer	n/a	n/a	1955
+536	2	38	Beta amyloid cleaving enzyme 2	BACE2	Also known as memapsin 1	n/a	2005
+537	996	214	N-carbamoyl-D-amino acid amidohydrolase	DCaseH	Pfam 00795; some topological similarities to the metallo-dependent phosphatases and DNase I-like nucleases	n/a	2038
+538	996	33	RNase E C-terminal Domain	RNase E CTD	n/a	n/a	1557
+539	996	215	NADP-dependant Ds-threo-isocitrate dehydrogenase	ICDH	the active site is between the two identical subunits	n/a	1713
+540	996	33	Human Complex-forming glycoprotein HC	protein HC	n/a	n/a	2097
+541	1045	216	Replication Protein A 70	RPA 70	n/a	n/a	1878
+542	1037	29	goldfish Growth hormone I	ghGH-I	n/a	n/a	1667
+543	1037	33	Goldfish growth hormones II	gfGH_II	n/a	n/a	1275
+544	996	29	Goldfish growth hormone II	gfGH_II	n/a	n/a	1731
+545	1037	33	Cauliflour mosaic virus capsid protein	CaMV	n/a	n/a	1028
+546	22	33	DELLA protein RGL3	RG-3	n/a	n/a	1988
+547	22	217	apoptotic protease activating factor	Apaf-1	n/a	n/a	1824
+548	22	218	chemoattractive glycoprotein ES20	ES20	n/a	n/a	1425
+549	1042	219	tumour necrosis factor alpha single-chain variable fragment	TNF-scFv	n/a	n/a	2280
+550	1037	29	Human Granulocyte colony-stimulating factor	hG_CSF	n/a	n/a	2437
+551	996	29	human granulocyte-macrophage colony-stimulating factor	hG-CSF	n/a	n/a	2134
+552	1037	220	cytochrome c	Cyt c	n/a	n/a	1879
+553	22	221	Suppressors of cytokine signalling	SOCS	n/a	n/a	1839
+554	22	222	Rad52	Rad52	n/a	n/a	1509
+555	1041	223	Extracellular domain of myelin oligodendrocyte glycoprotein	ED-MOG	n/a	n/a	2210
+556	1044	224	Human paraoxonase	hPON3	n/a	n/a	926
+557	1037	225	monokine	MuMIG	n/a	n/a	947
+558	1037	225	Gamma-interferon-induced monokine	MuMIG	n/a	n/a	1591
+559	1037	35	Hen egg- white lysozyme	HEWL	n/a	n/a	2002
+560	1037	195	Trichosanthes kirilowii defensin	TDEF1	n/a	n/a	1310
+561	1037	225	Stromal cell-derived factor-1a	SDF-1a	n/a	n/a	917
+562	1037	225	CC Chemokine RANTES	CCL5	n/a	n/a	1556
+563	1037	226	CC Chemokine Lymphotactin	XCL1	n/a	n/a	1595
+564	1037	225	CX3C chemokine fractalkine	CX3CL1	n/a	n/a	1583
+565	1037	227	Alkaline phosphatase	ALP	n/a	n/a	1470
+566	1037	228	Citrate synthase	CS	n/a	n/a	1830
+567	1037	64	Human macrophage elastase catalytic  domain	hMECD	n/a	n/a	944
+568	1037	229	Glucose 6-phosphate dehydrogenase	G6PD	n/a	n/a	884
+569	1037	33	Chymotrypsin inhibitor	NACI	n/a	n/a	882
+570	1037	230	Mannose-binding lectin	n/a	n/a	n/a	877
+571	1037	33	Luciferase	n/a	n/a	n/a	763
+572	1037	64	 Human Gelatinase A	GaCDfn	n/a	n/a	1430
+573	1037	64	Human Gelatinase A without fibronectine like insert	GaCD	n/a	n/a	1039
+574	1037	33	Trypsin inhibitor	TI	n/a	n/a	77
+575	1037	33	Fas ligand interfering protein	FIP	n/a	n/a	860
+576	1037	33	Urodilatin	rhudilatin	n/a	n/a	714
+577	1037	33	xylanase	XYN4	n/a	n/a	764
+578	1037	33	anti-Tumor necrosis factor single chain Fv	anti-TNF scFv	n/a	n/a	629
+581	1037	233	Surface antigen protein 1	SAG 1	n/a	n/a	642
+582	1037	33	Tumor necrosis factor (TNF)-stimulated gene-6	TSG-6	n/a	n/a	850
+583	996	235	Trypsin Inhibitor (TI)	TI	n/a	n/a	868
+584	1037	234	Link module from human TSG-6	Llink module	n/a	n/a	826
+585	1037	236	60 kDa chaperonin groEL protein	groEL	n/a	n/a	931
+586	1037	237	10 kDa chaperonin groES protein	groES	n/a	n/a	962
+587	1037	33	5,10-methylenetetrahydrofolate reductase	METF	n/a	n/a	80
+588	1037	238	5,10-methylenetetrahydroforate reductase	METF	n/a	n/a	862
+589	1037	239	D-lactate dehydrogenase	LDH	n/a	n/a	776
+590	1037	112	Alfa- glucosidase	AGLU	n/a	n/a	854
+591	1037	33	G protein-coupled receptor G alpha subunit	GPCR (G alpha)	n/a	n/a	535
+592	1037	33	New thrombolytic agent	NTA	n/a	n/a	477
+593	1037	33	Hahellin	Hahellin	n/a	n/a	746
+594	1037	240	Dystrophin	none	n/a	n/a	464
+595	1037	33	Heat shock protein 26	Hsp26	n/a	n/a	821
+596	1037	33	Anti-human ferritin antibody F11 VL domain	VL domain	n/a	n/a	861
+597	1037	241	Streptokinase	SK	n/a	n/a	657
+598	1037	33	Maltodextrin glucosidase	MalZ	n/a	n/a	173
+599	1037	242	Nucleoprotein Severe acute respiratory syndrome coronavirus	SARS-COV N	n/a	n/a	970
+600	1037	183	Cholera enterotoxin subunit A [Precursor]	CTA1	n/a	n/a	957
+601	1037	81	Triacylglycerol lipase	Lipase	n/a	n/a	811
+602	1037	33	Interferon regulatory factor 8	IFN-con	n/a	n/a	685
+603	1037	33	Delta crystallin (Argininosuccinate lyase)	Delta crystallin	n/a	n/a	830
+604	1037	33	Creatine kinase M-type	MMCK	n/a	n/a	853
+605	1037	33	Onconase	ONC	n/a	n/a	532
+606	1037	33	Promegapoietin-Ia	PMP-Ia	n/a	n/a	295
+607	1037	33	Beta-site APP cleaving enzyme 1 (Beta-secretase 1)	BACE	n/a	n/a	413
+608	988	244	Beta-site APP cleaving enzyme 1	BACE	n/a	n/a	908
+609	1037	245	Mitogen-activated protein kinase 14 ,p38 alpha	MAP kinase p38 alpha	n/a	n/a	724
+610	1037	33	Oligopeptide binding protein	OppA	n/a	n/a	836
+611	1037	33	Luciferase (Luciferin 4-monooxygenase)	Lusiferase	n/a	n/a	767
+612	1037	29	Somatotropin (Mink Growth hormone)	mGH	n/a	n/a	742
+613	1037	33	Porcine Growth hormone	pGH	n/a	n/a	451
+614	1037	33	Beauveria bassiana Chitinase	Bbchit1	n/a	n/a	799
+615	1037	246	Interleukin-1 receptor antagonist protein	IL-1ra	n/a	n/a	775
+616	1037	33	Bikunin Placental	HAI-2	n/a	n/a	912
+617	1037	247	Farnesoid X-activated receptor	FXR	n/a	n/a	752
+618	1037	247	Estrogen receptor beta	ERBeta	n/a	n/a	813
+619	1037	33	Liver receptor homolog 1	LRH1	n/a	n/a	712
+620	1037	33	Gram-negative bacteria-binding protein 1	GNBP1	n/a	n/a	590
+621	1037	33	Gram-negative bacteria-binding protein 2	GNBP2	n/a	n/a	549
+622	1037	33	Gram-negative bacteria-binding protein 3	GNBP3	n/a	n/a	410
+623	1037	33	Protein-tyrosine phosphatase sigma	PTPRS	n/a	n/a	716
+624	1037	248	Dual specificity protein phosphatase 7	DUSP7	n/a	n/a	764
+625	1037	249	Rapamycin target protein	TOR	n/a	n/a	746
+626	1037	250	Rapamycin-binding protein	FKBP	n/a	n/a	787
+627	1037	33	DNA polymerase beta	Polbeta	n/a	n/a	806
+628	1037	251	DNAS1_BOVIN	DNase-I	n/a	n/a	861
+629	1037	245	Casein kinase II subunit alpha	CK II alpha subunit	n/a	n/a	892
+630	1037	252	PPE FAMILY PROTEIN	Rv2430c	n/a	n/a	995
+631	1037	33	Steroleosin	sop2	n/a	n/a	809
+632	1037	253	Non-structural glycoprotein 4	NSP4	n/a	n/a	859
+633	1037	254	Ricin B chain	RTB	n/a	n/a	666
+634	1037	254	Apolipoprotein(a)(lipoprotein kringle)	LK68	n/a	n/a	1133
+635	1037	33	Virulence sensor histidine kinase phoQ	PhoQ-SD	n/a	n/a	771
+636	1037	33	Glycoprotein (recombinant glycoprotein vaccine)	VHSVg	n/a	n/a	1024
+637	1037	33	Immulectin-3	IML-3	n/a	n/a	714
+638	1037	40	Phospholipase A2 BA2	BAPLA2-II	n/a	n/a	756
+639	1037	255	Recombinant grass pollen hybrid molecule	Ph1 p6-Ph1 p2-Ph1 p5-Ph1	n/a	n/a	1045
+640	1037	33	Oncoprotein E7	HPV-E7	n/a	n/a	946
+641	1037	33	Glyceraldehyde-3-phosphate dehydrogenase	GAPDH	n/a	n/a	877
+642	1037	33	Matrix metalloproteinase 1	Dm1-MMP	n/a	n/a	809
+643	1037	33	Corrinoid/iron-sulfur protein	C/Fe-SP	n/a	n/a	684
+644	1037	256	Tubulin beta chain	Beta-tubulin	n/a	n/a	692
+645	1037	257	Non-specific lipid-transfer protein	nsLTP1	n/a	n/a	827
+646	1037	33	HIV-1 Rev binding protein-like	HIV-1 REV	n/a	n/a	1053
+647	1037	113	MHC ClassII HLA-DR-beta	n/a	n/a	n/a	821
+648	1037	259	Flotillin-1	FLOT1	n/a	n/a	806
+649	1037	28	Prothrombin	n/a	n/a	n/a	898
+650	1037	33	Rho-associated protein kinase 2	ROCK-2	n/a	n/a	764
+651	1037	24	Serpin A5 (also known as Protein Inhibitor 3, Plasminogen Activator Inhibitor 3)	PLn	n/a	n/a	730
+652	1037	259	Triosephosphate isomerase	TPI	n/a	n/a	824
+653	1037	33	ATP synthase subunit alpha	RrF1 alpha	n/a	n/a	769
+654	1037	33	Glucose dehydrogenase	GlcDH	n/a	n/a	725
+655	1037	260	NAD specific glutamate dehydrogenase	NAD-GDH	n/a	n/a	707
+656	1037	261	Serotonin N-acetyltransferase	AANAT	n/a	n/a	811
+657	1037	33	Phosphate carrier protein, mitochondrial	PiC	n/a	n/a	787
+658	1037	33	Delta-like1	Dll1	n/a	n/a	750
+659	1037	244	Rhizopuspepsin	n/a	n/a	n/a	710
+660	1037	33	Osmotin-like protein	SnOLP	n/a	n/a	666
+661	1037	262	Lysyl oxidase	LOX	n/a	n/a	849
+662	1037	55	Plasma retinol-binding protein	RBP	n/a	n/a	817
+663	1037	33	Complement regulatory protein Crry	Crry	n/a	n/a	761
+664	1037	33	Putative uncharacterized protein	Ehp	n/a	n/a	367
+665	1037	33	Fibrinogen-binding protein	Efb	n/a	n/a	848
+666	1037	263	Clumping factor A	clfA	n/a	n/a	749
+667	1037	263	Clumping factor B	ClfB	n/a	n/a	766
+668	1037	33	Proteinase inhibitor PSKP-1	PSKP-1	n/a	n/a	872
+669	1037	86	Peroxidase C1C	PRXC1C	n/a	n/a	782
+670	1037	264	Hepcidin_20	Hepc-20	n/a	n/a	791
+671	1037	33	MAP domain protein	EapH1	n/a	n/a	576
+672	1037	33	Immunogenic protein mpt64	MPT64	n/a	n/a	251
+673	1037	33	Ser-Asp rich fibrinogen-binding, bone sialoprotein-binding protein	SdrD	n/a	n/a	680
+674	1037	33	Agmatinase	n/a	n/a	n/a	850
+675	1037	157	Gamma-crystallin E	Cryge	n/a	n/a	781
+676	1037	33	Protein decapentaplegic	Protein DPP-C	n/a	n/a	835
+677	1037	33	Defensin	n/a	n/a	n/a	84
+678	1037	33	Ribonuclease pancreatic	RNase A	n/a	n/a	834
+679	1037	33	Ribosome-inactivating protein gelonin	GEL	n/a	n/a	865
+680	1037	265	Protective antigen	PA	n/a	n/a	907
+681	1037	266	Acetylcholinesterase	AChE	n/a	n/a	824
+682	1037	131	Lectin CEL-I, N-acetyl-D-galactosamine-specific C-type	CEL-I	n/a	n/a	930
+683	1037	33	Outer membrane porin M35	OMP M35	n/a	n/a	625
+684	1037	267	Photosystem Q(B) protein	psbA	n/a	n/a	713
+685	1037	33	Large structural protein	protein L	n/a	n/a	910
+686	1037	72	Integrase	IN	n/a	n/a	833
+687	1037	33	Type XI collagen alpha-1 chain	Npp alpha1 XL	n/a	n/a	738
+688	1037	33	Monoclonal anti-idiotypic Schistosoma japonicum antibody NP30 immunoglobulin lig	MAb -LIGHT	n/a	n/a	863
+689	1037	268	Pheromone-binding protein	PBP	n/a	n/a	644
+690	1037	33	General odorant-binding protein 1	GOBP1	n/a	n/a	795
+691	1037	33	General odorant-binding protein 2	GOBP2	n/a	n/a	811
+692	1037	33	Protein A33	A33R	n/a	n/a	680
+693	1037	33	A33R homolog gene protein	EVM135	n/a	n/a	802
+694	1037	33	Capsid protein VP60	VP60	n/a	n/a	745
+695	1037	269	Single-chain FV-Asparaginase Fusion protein	scFv-ASNase	n/a	n/a	739
+696	1037	270	Myc proto-oncogene protein	c-Myc	n/a	n/a	808
+697	1037	185	Dihydrolipoyl dehydrogenase, mitochondrial	L-protein	n/a	n/a	845
+698	1037	33	Putative AC transposase	ORFA	n/a	n/a	737
+699	1037	113	HLA class II histocompatibility antigen, DR alpha chain	HLA-DRI	n/a	n/a	812
+700	1037	271	Chitinase A1	CHA1	n/a	n/a	881
+701	1037	33	Toll-interleukin 1 receptor domain-containing adapter protein inducing interferon	TRIF	n/a	n/a	472
+702	1037	272	Serine protease/NS3 protein/helicase NS3	NS3P	n/a	n/a	1080
+703	1037	33	Nikkomycin biosynthesis protein SanV	sanV	n/a	n/a	764
+704	1037	33	Pro-subtilisin	n/a	n/a	n/a	780
+705	1037	78	Prothiolsubtilizin E	n/a	The uniProtID is for subtilizin E. Serin 221 at active centre was substitude with cysteine, and mutant enzyme (prothiolsubtilisin) was expressed in E.coli.	n/a	951
+706	1037	33	Phospholipase A2, ammodytoxin A	ATXA	n/a	n/a	759
+707	1037	33	Hypothetical 27 kDa protein Also known as: PPE FAMILY PROTEIN	p27	n/a	n/a	801
+708	1037	64	Collagenase 3 Also known as Matrix metalloproteinase-13	MMP-13	n/a	n/a	746
+709	1037	33	Ferritin light chain	FLC	n/a	n/a	763
+710	1037	86	Peroxidase N	HRP	n/a	n/a	712
+711	1037	273	Ferric uptake regulation protein	Fur	n/a	n/a	866
+712	1037	33	Elongation factor G	EF-G	n/a	n/a	970
+713	1037	33	Prokineticin-2	PK2	n/a	n/a	719
+714	1037	33	Erythromycin resistance protein also known as rRNA adenine N-6-methyltransferase	ErmSF	n/a	n/a	886
+715	1037	274	Amyloid beta A4 protein Cleaved into: Beta-amyloid protein 42	AB42	n/a	n/a	911
+716	1037	274	Bone morphogenetic protein 7	BMP-7	n/a	n/a	912
+717	1037	33	Calcium-binding protein C also known as Calcium-binding protein 3	CBP3	n/a	n/a	718
+718	1037	33	Yolk cathepsin	BYC	n/a	n/a	772
+719	1037	33	Isopenicillin N synthetase	IPNS	n/a	n/a	750
+720	1037	33	Outer membrane protein OprN	oprN	n/a	n/a	568
+721	1037	33	Self-incompatibility protein	SI	n/a	n/a	647
+722	1037	275	Toxin yoeB	yoeB	n/a	n/a	835
+723	1037	47	Apolipoprotein(a)	Lp(a)	n/a	n/a	735
+724	1037	33	Chlorate reductase subunit gamma	ClrC	n/a	n/a	693
+725	1037	276	Adenylate kinase	ADK	n/a	n/a	849
+726	1037	277	Antimicrobial peptide 1	MIAMP1	n/a	n/a	906
+727	1037	278	Proteasome subunit alpha type-5	PSMA5	n/a	n/a	760
+728	1037	33	Estrases also known as EstB2	EstB2	n/a	n/a	251
+729	1037	279	Mavicyanin	n/a	n/a	n/a	700
+730	1037	33	Chitinase ECH30	ech30	n/a	n/a	683
+731	1037	33	Leukocyte cell-derived chemotaxin 2	LECT2	n/a	n/a	797
+732	1037	33	Carnitine/acylcarnitine carrier protein mitochondrial	CAC	n/a	n/a	789
+733	1037	280	Nitrile hydratase	NHase	n/a	n/a	692
+734	1037	244	Plasmepsin 2	n/a	n/a	n/a	669
+735	1037	33	Ectonucleoside triphosphate diphosphohydrolase 6 (CD39L2)	NTPDase6	n/a	n/a	709
+736	1037	33	Gelonin-acetylcholine receptor alpha sub unit	Gelonin-AChR	n/a	n/a	714
+737	1037	33	C-type lectin also known as asialofetuin-binding C-type`	OLABL	n/a	n/a	851
+738	1037	33	Growth/differentiation factor 5	GDF5	n/a	n/a	800
+739	1037	32	Thrombopoietin	TPO	n/a	n/a	750
+740	1037	33	Serine-repeat antigen protein	SERA	n/a	n/a	739
+741	1037	281	Gelatinase B also known as Matrix metalloproteinase-9 & 92 kDa gelatinase	MMP-9	n/a	n/a	731
+742	1037	282	Cytochrome b6	petB	n/a	n/a	649
+743	1037	33	Beta-1,3-glucan recognition protein 2 also known as BetaGRP-2	BGBP-2, BGRP-2	n/a	n/a	496
+744	1037	283	Neurotoxin B-IV	B-IV	n/a	n/a	713
+745	1037	136	Lymphotoxin-alpha also known as TNF-beta	LT-alpha	n/a	n/a	729
+746	1037	33	Polyhydroxyalkanote depolymerase	phaZ	n/a	n/a	626
+747	1037	33	Nuclease	NucA	n/a	n/a	717
+748	1037	33	Trafficking protein particle complex subunit 6A	TRAPPC6A	n/a	n/a	754
+749	1037	32	Granulocyte colony-stimulating factor	G-CSF	n/a	n/a	790
+750	1037	284	metalloprotease also know as Zinc metalloproteinase/disintegrin	MT	n/a	n/a	752
+751	1037	285	Cyclophilin also known as Peptidyl-prolyl cis-trans isomerase A	CypA	n/a	n/a	792
+752	1037	33	Fibrinolytic enzyme	F-III-2	n/a	n/a	804
+753	1037	286	Regulator of ribonuclease activity A (gene RV3853)	menG	n/a	n/a	779
+754	1037	287	Multiple antibiotic resistance protein marA	MarA	n/a	n/a	686
+755	1037	33	Rhoptry protein	ROP2	n/a	n/a	219
+756	1037	33	C4b-binding protein alpha chain also known as Proline-rich protein	C4BP	n/a	n/a	742
+757	1037	32	Fusion protein consisting of interleukin 13 and pseudomonas exotoxin	IL-13PE	n/a	n/a	689
+758	1037	63	Cobrotoxin	CBTX	n/a	n/a	776
+759	1037	33	Prostate-specific antigen	PSA	n/a	n/a	658
+760	1037	29	Somatotropin also known as Growth hormone	GH	n/a	n/a	777
+761	1037	288	 Endostatin	EN	n/a	n/a	3395
+762	1037	33	Blue copper-binding protein	BCB	n/a	n/a	680
+763	1037	33	Nitrogen fixation regulatory protein	NIFL	n/a	n/a	644
+764	1037	289	Coagulation factor VIII	FVIII	n/a	n/a	817
+765	1037	33	 Non-structural protein 1	NS1	n/a	n/a	1393
+766	1037	33	Extracellular zinc metalloprotease	ZmpA	n/a	n/a	850
+767	1037	225	C-C motif chemokine 4 Also known as MIP-1-beta	MIP-1beta	n/a	n/a	687
+768	1037	33	Beta-casein	CA	n/a	n/a	684
+769	1037	290	Phytase	phy	n/a	n/a	523
+770	1037	33	Lysophospholipase	n/a	n/a	n/a	632
+771	1037	33	VirG	n/a	n/a	n/a	625
+772	1037	33	CtcC	n/a	n/a	n/a	688
+773	1037	33	CtcB	n/a	n/a	n/a	693
+774	1037	33	Torsin-1A Also known as: Dystonia 1 protein	 DYT1, TOR1A	n/a	n/a	649
+775	1037	225	Macrophage inflammatory protein 1-beta	MIP-1-beta	n/a	n/a	651
+776	1037	33	Canstatin	n/a	n/a	n/a	848
+777	1037	291	Pertactin Cleaved into: Outer membrane protein P.69	P.69 Pertactin	n/a	n/a	748
+778	1037	33	Bone morphogenetic protein 3	BMP3	n/a	n/a	852
+779	1037	33	S-phase delaying protein 1	Spd1	n/a	n/a	499
+780	1037	167	Carbonic anhydrase IV	CA IV	n/a	n/a	828
+781	1037	33	Tcell alpha chain	TCR	n/a	n/a	504
+782	1037	33	Alternansucrase	ASR	n/a	n/a	1937
+783	1037	33	Circumsporozoite protein	CS	n/a	n/a	784
+784	1037	33	NifU-like protein 1, chloroplast Also known as OsNifu1	OsNiful1	n/a	n/a	598
+785	1037	33	Outer membrane protein P2 Also known as Bac porin	OMP P2	n/a	n/a	648
+786	1037	28	Cerastocytin also known as  Proaggregant serine proteinase	CC-PPP	n/a	n/a	639
+787	1037	292	Protease 3C	n/a	n/a	n/a	665
+788	1037	33	CD23 antigen Also known as Low affinity immunoglobulin epsilon Fc receptor	CD23	n/a	n/a	777
+789	1037	183	Cholera enterotoxin subunit B Also known as Cholera toxin B subunit	CTB	n/a	n/a	626
+790	1037	33	Mu-type opioid receptor	MOR-1	n/a	n/a	4
+791	1037	76	4-aminobutyrate aminotransferase, mitochondrial also known as  GABA transaminase	n/a	n/a	n/a	895
+792	1037	243	Beta-secretase 2 also known as  Memapsin-1	BACE2	Also known as Membrane-associated aspartic protease 1	n/a	711
+793	1037	293	SAG1 protein also known as P30	SAG1	n/a	n/a	648
+794	1037	28	Matriptase also known as Suppressor of tumorigenicity protein 14	n/a	n/a	n/a	698
+795	1037	294	Troponin T, fast skeletal muscle isoforms	TnT	n/a	n/a	752
+796	1037	33	PR domain-containing protein 2 Also known as Zinc finger protein RIZ	RIZ1	PR domain zinc finger protein 2 Also known as: PR domain-containing protein 2, Retinoblastoma protein-interacting zinc finger protein,  Zinc finger protein RIZ, MTE-binding protein,      MTB-ZF, GATA-3-binding protein G3B, Lysine N-methyltransferase 8, 	n/a	715
+797	1037	135	B and T lymphocyte attenuator variant also known as  BTLA protein	BTLA	n/a	n/a	560
+798	1037	33	Pancreatic secretory trypsin inhibitor	PSTI-I	Also known as:  Serine protease inhibitor Kazal-type 1, PSTI-I, Cholecystokinin-releasing peptide,   Monitor peptide	n/a	686
+799	1037	26	Cathepsin L1 also known as papain prosegment	n/a	n/a	n/a	729
+800	1037	33	Cystic fibrosis transmembrane conductance regulator	CFTR	Also known as:  CFTR,  cAMP-dependent chloride channel, ATP-binding cassette transporter sub-family C member 7	n/a	711
+801	1037	33	Nucleoprotein	protein N	n/a	n/a	549
+802	1037	33	Mucrosobin also known as Mucrofibrase-1	n/a	n/a	n/a	587
+803	1037	295	HRP/Fatty acid-binding protein, heart fusion	HRP-FABP	Recombinant Horseradish peroxidase is one of the most widely used marker enzymes in immunoassays	n/a	800
+804	1037	64	Matrix metalloproteinase-14 Also known as  MMP-14	MT1-MMP	n/a	n/a	742
+805	1037	33	Tousled-like kinase 1 also known as Serine/threonine-protein kinase tousled-like	TlK1	n/a	n/a	634
+806	1037	193	Riboflavin synthase 2 beta chain	RIbH2	Also known as 6,7-dimethyl-8-ribityllumazine synthase 2	n/a	642
+807	1037	75	Metalloproteinase inhibitor 1 also known as Tissue inhibitor of metalloproteinas	TIMP-1	n/a	n/a	685
+808	1037	33	Casein kinase II subunit alpha-1-subunit beta-1	CKA1-CKB1	n/a	n/a	627
+809	1037	33	Microneme protein SML2 [Fragment]	SML	n/a	n/a	679
+810	1037	33	Serine/threonine protein kinase PKB	GiPKB	n/a	n/a	604
+811	1037	33	30K protein	n/a	n/a	n/a	848
+812	1037	33	NS2B-NS3 Protease	DEN2 NS2B-NS3	n/a	n/a	740
+813	1037	33	Fimbrial subunit also known as pilin subunit	n/a	n/a	n/a	545
+814	1037	296	Ribonuclease mitogillin also known as  Restrictocin	pRest	n/a	n/a	649
+815	1037	33	Poly-zinc finger protein 1	PZFP1	n/a	n/a	779
+816	1037	33	Heparinase I also known as Heparin lyase I	n/a	n/a	n/a	66
+817	1037	33	ZEBRA protein also known as Z protein	ZEBRA	n/a	n/a	579
+818	1037	33	Conglutinin	n/a	n/a	n/a	593
+819	1037	297	C-terminal processing protease of the D1 protein	CtpA	n/a	n/a	650
+820	1037	33	Protein p1	gp1	n/a	n/a	2
+821	1037	298	Parathyroid hormone/parathyroid hormone-related peptide receptor	PTHR1	n/a	n/a	729
+822	1037	33	CD59 glycoprotein	CD59	n/a	n/a	718
+823	1037	33	CHA-II protein	CHA-II	n/a	n/a	690
+824	1037	299	Aspergillopepsin-2	n/a	n/a	n/a	603
+825	1037	33	Photoactivated adenylate cyclase subunit alpha	PAC alpha	n/a	n/a	597
+826	1037	33	Alpha-2-macroglobulin	Alpha-2-M	n/a	n/a	675
+827	1037	33	18 kDa cyclophilin, Cyclophilin-18	C-18	n/a	n/a	827
+828	1037	33	OriC-binding nucleoid-associated protein	Cnu	n/a	n/a	627
+829	1037	300	Erbin also known as Protein LAP2	n/a	n/a	n/a	613
+830	1037	33	Pectinesterase inhibitor	PMEI	n/a	n/a	582
+831	1037	301	Lysyl-tRNA synthetase	LysRS	n/a	n/a	638
+832	1037	302	Hemagglutinin	FHA2	n/a	n/a	534
+833	991	303	2S Albumin	Ber e 1	n/a	n/a	1
+834	1037	33	Secreted luciferase	Luc	n/a	n/a	54
+835	1037	33	 Erythrocyte membrane protein 1	var2CSA	n/a	n/a	827
+836	1315	304	2-amino-3-ketobutyrateCoA ligase	KBL	n/a	n/a	669
+837	1037	241	Staphylokinase	SakSTAR	n/a	n/a	1692
+838	1037	33	Lipase chaperone	LipB	n/a	n/a	722
+839	1037	33	Luciferase 39	Luc39	n/a	n/a	24
+840	1037	302	 Hemagglutinin HA2 chain	n/a	n/a	n/a	745
+841	1037	33	Nucleocapsid protein	Protein N	n/a	n/a	604
+842	1037	33	Prostasin	PRSS8	Alternative name: Serine protease 8	n/a	630
+843	1037	33	Interleukin-7	IL-7	n/a	n/a	527
+844	1037	33	Chemotaxis inhibitory protein	CHIPS	n/a	n/a	464
+845	1037	182	High affinity cAMP-specific and IBMX-insensitive 3\\',5\\'-cyclic phosphodiesterase	HSPDE8B	n/a	n/a	0
+846	1037	28	Trypsin	n/a	n/a	n/a	327
+847	1037	33	 CAMP-specific cyclic nucleotide phosphodiesterase PDE8A1	PDE8A1	n/a	n/a	2481
+848	1037	26	Cysteine protease falcipain-2	n/a	n/a	n/a	257
+849	1037	33	Snakin-1	SN1	n/a	n/a	186
+850	1037	33	Activating transcription factor 5	ATF-5	Also known as : Cyclic AMP-dependent transcription factor ATF-5	n/a	20
+851	1037	33	DASH complex subunit DAD1	Dad1	Alternative name(s):\n    Outer kinetochore protein DAD1\n    DUO1 and DAM1-interacting protein 1	n/a	0
+852	745	49	Interferon Beta	IFNb	n/a	n/a	0
+853	1390	33	non-POU domain-containing octamer binding protein	NonO	MTMITPSLKDHLIHNVHKEEHAHAHNKIDDDDKVNQSNKTFNLEKQNHTPRKHHQHHHQQHHQQQQQQQQQQQQQPPPPIPANGQQASSQNEGLTIDLKNFRKPGEKTFTQRSRLFVGNLPPDITEEEMRKLFEKYGKAGEVFIHKDKGFGFIRLETRTLAEIAKVELDNMPLRGKQLRVRFACHSASLTVRNLPQYVSNELLEEAFSVFGQVERAVVIVDDRGRPSGKGIVEFSGKPAARKALDRCSEGSFLLTTFPRPVTVEPMDQLDDEEGLPEKLVIKNQQFHKEREQPPRFAQPGSFEYEYAMRWKALIEMEKQQQDQVDRNIKEAREKLEMEMEAARHEHQVMLMRQDLMRRQEELRRMEELHNQEVQKRKQLELRQEEERRRREEEMRRQQEEMMRRQQEGFKGTFPDAREQEIRMGQMAMGGAMGINNRGAMPPAPVPPGTPAPPGPAAMMPDGTLGLTPPTTERFGQAATMEGIGAIGGTPPAFNRPAPGAEFAPNKRRRY	n/a	0
+854	1404	26	ProDer p 1	ProDer p 1	Mutation: C114A, N132D, V204A	n/a	0
+855	1429	33	Carbonic anhydrase bovine erythrocytes	CA-BE	n/a	n/a	0
+856	1531	305	Bauhinia bauhinioides Kallikrein Inhibitor	BbKI	Only one Cys in C-terminal (Cys155)	n/a	0
+857	2227	113	C epsilon 3	Ce3	structure has been described as a molten globule. has one disulphide bond	n/a	0

@@ -1,0 +1,27 @@
+cell_disrupt_method_id	cell_disrupt_method	user_id
+1	None	2
+2	Sonication	2
+3	French Press	2
+4	Sonication/French Press	2
+5	High pressure homogenization	2
+6	Freeze-thaw	2
+7	Freeze/Thaw+Sonication	2
+8	Microfluidizer	2
+9	Freeze/Thaw-High Pressure Homogenization	2
+17	Chemical	2
+18	Osmotic shock	71
+19	Osmotic shock + sonication	71
+21	Glass Beads	254
+22	Not stated	71
+23	Freeze/Thaw+French Press	254
+24	Ball Mill	254
+25	Bead Beater	254
+26	Nitrogen Pressure	22
+27	ultrasonication	1037
+28	high-pressure microfluidizer	1037
+29	Cell disrupter	1037
+30	Ultrasonic oscillator	1037
+31	homogenizer	1037
+32	ultrasonic homogenization	1037
+33	high-pressure dispersion	1037
+34	ultrasonic pulses	1037

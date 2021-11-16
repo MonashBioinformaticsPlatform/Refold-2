@@ -1,0 +1,117 @@
+assay_id	assay	assay_short	measurement	user_id
+1	Ultraviolet (UV) Absorbance	UV	The environment and orientation of predominantly tyrosine side chains	2
+2	Far-UV Circular Dichroism	Far-UV CD	Far-UV 260 - 180 nm Targeting the amide backbone but minor contribution from aromatics. Backbone conformation	2
+3	Near-UV Circular Dichroism	Near-UV CD	Near-UV 320 - 260 nm targeting aromatic residues. Formation of stable aromatic and disulphide bond tertiary contacts	2
+4	Fluorescence	Trp	The orientation and environment of predominantly tryptophan, and some tyrosine side chains	2
+5	Differential Scanning Calorimetry	DSC	DSC can be used to determine midpoints of thermal transitions (Tm) as well as the associated calorimetric and v'ant Hoff enthalpies. These measurements can be made for any process induced by a change in temperature.	2
+9	8-Anilo-1-Naphthalenesulfonic Acid Fluorescence	ANS	ANS binds to hydrophobic surfaces. In a folded, native protein ANS binding is low, however in many designed proteins examined ANS binding is higher than normal.This would suggest exposure of more of the hydrophobic core than in a native, compact protein.	2
+10	1H chemical shift (ppm)	1H	1H NMR measures the nuclear spin reorientation of hydrogen nuclei in a magnetic field using radiowaves. Signals from 1H nuclei in alpha carbons, methyl, amide, and aromatic groups can be detected.	2
+11	15N -1H chemical shifts (ppm)	15N/1H	for 2D NMR	2
+12	Online capillary isoelectric focussing electrospra		Folding intermediates containing disulphides/conformational heterogeneity	2
+13	Limited proteolysis	proteolysis		2
+14	Immunoassay	IA		2
+15	Enzyme activity	Activity		2
+16	DNA binding	DNA binding	Electrophoretic mobility shift assay	2
+17	Alpha-Tocopherol binding assay	alpha-T binding	Radioactivity-scintillation count	2
+18	Luminescence	Luminescence	light intensity	2
+19	Bioactivity	Bioactivity		2
+20	Actin Binding Activity	Actin Binding	SDS PAGE	2
+21	Ligand Binding	Ligand Binding		2
+23	Phosphorylation	Phosphorylation	radiography	2
+24	Virus Binding Blocking assay	Blocking assay		2
+25	Unspecified			2
+26	Western Blot			71
+27	HPLC			71
+28	Crystallography			71
+29	SDS-PAGE			71
+30	Gel filtration chromatography			71
+31	Amino acid sequencing	Sequencing		71
+32	ELISA			118
+33	Combination of : RP-HPLC, 1H-NMR and specific binding to Lys-Sepharose			153
+34	Enzyme activity, gel-filtration, infrared and fluorescence spectroscopy			148
+35	UV spectrum/Near UV CD/ Immunology			163
+36	ATP hydrolysis			167
+37	Native gel band-shift assay	band-shift assa		71
+38	enzyme activity		DNA cleavage	207
+39	Surface plasmon resonance binding			71
+40	RNA binding			71
+41	Receptor binding	Receptor Bindin		71
+42	Isoelectic focusing	n/a	n/a	71
+43	Complex Assembly	n/a	n/a	254
+44	Mass spectrometry	n/a	n/a	71
+45	Sequence Analysis	n/a	n/a	254
+46	Folding Kinetics	n/a	n/a	254
+47	Structure Determination	n/a	n/a	254
+48	Analytical centrifugation	n/a	n/a	71
+49	Native PAGE	n/a	n/a	71
+50	Stability Determination	n/a	n/a	254
+51	Laser densitometry	n/a	n/a	254
+52	Cytotoxicity Assays	n/a	n/a	254
+53	Reverse phase chromatography	n/a	n/a	71
+54	Kinetic analysis	n/a	n/a	254
+55	Bradford assay	n/a	n/a	71
+56	Inhibitory activity	n/a	n/a	71
+57	Ultracentrifugation equilibrium sedimentation	n/a	n/a	71
+58	Isothermal titration calorimetry	n/a	n/a	71
+59	Target protein binding	n/a	n/a	71
+63	Immunoprecipitation	n/a	n/a	71
+64	Sedimentation velocity analysis	n/a	n/a	71
+65	Visible spectra	n/a	n/a	71
+66	Visible spectra	n/a	n/a	71
+67	Free sulfhydryl group estimation	n/a	n/a	71
+68	Light scatter	n/a	n/a	71
+69	Solution X-ray scattering	n/a	n/a	996
+70	Protein activity assay	n/a	n/a	1037
+71	Protein activity assay	n/a	n/a	1037
+72	postrefolding'analysis	n/a	n/a	988
+73	postrefolding'analysis	n/a	n/a	988
+74	postrefolding'analysis	n/a	n/a	988
+75	postrefolding'analysis	n/a	n/a	988
+76	postrefolding'analysis	n/a	n/a	988
+77	postrefolding'analysis	n/a	n/a	988
+78	postrefolding'analysis	n/a	n/a	988
+79	Test'test	n/a	n/a	988
+80	RP-HPLC	n/a	n/a	1037
+81	Oligomeric protein analysis	n/a	n/a	1037
+82	Activity assay	n/a	n/a	1037
+83	SEC-HPLC	n/a	n/a	1037
+84	NMR analysis	n/a	n/a	1037
+85	Protease digestion	n/a	n/a	1037
+86	Assays of refolding efficiency	n/a	n/a	1037
+87	Reporter assay	n/a	n/a	1037
+88	Haemagglutination assays	n/a	n/a	1037
+89	Binding assay	n/a	n/a	1037
+90	Analytical gel filtraion chromatography	n/a	n/a	1037
+91	Antibacterial activity assay	n/a	n/a	1037
+92	Circular Dichroism (uv-CD)	n/a	n/a	1037
+93	Tryptophan Fluorescence	n/a	n/a	1037
+94	Antimicrobial assays	n/a	n/a	1037
+95	Protein kinase assay	n/a	n/a	1037
+96	photoaffinity labeling	n/a	n/a	1037
+97	Electrophoretic mobility-shift assays	n/a	n/a	1037
+98	Mobility shift assays	n/a	n/a	1037
+99	Peptide-MHC -I binding assay	n/a	n/a	1037
+100	Peptide-MHC -I binding assay	n/a	n/a	1037
+101	Toxicity testing	n/a	n/a	1037
+102	Protein Analyses	n/a	n/a	1037
+103	Biological assay	n/a	n/a	1037
+104	Phototaxis assay	n/a	n/a	1037
+105	GST Pull-Down Assay	n/a	n/a	1037
+106	Thermal melting analyses	n/a	n/a	1037
+107	Thermal melting analyses	n/a	n/a	1037
+108	Thermal melting analyses	n/a	n/a	1037
+109	Thermal melting analyses	n/a	n/a	1037
+110	RNR assay	n/a	n/a	1037
+111	Phosophor Imager Analysis	n/a	n/a	1037
+112	Amine Oxidise	n/a	n/a	1037
+113	Amine Oxidise	n/a	n/a	1037
+114	Computer analysis	n/a	n/a	1037
+115	Statistical Analysis	n/a	n/a	1037
+116	Adenylate Kinase and ATPase assay	n/a	n/a	1037
+117	Adenylate Kinase and ATPase assay	n/a	n/a	1037
+118	Immunoblot analysis	n/a	n/a	1037
+119	Proteolytic activity	n/a	n/a	1037
+120	Biochemical analyses	n/a	n/a	1037
+121	Spectrophotometric analyses	n/a	n/a	1037
+122	Spectrophotometric analyses	n/a	n/a	1037
+123	Azocasein spectrophotometric assay	n/a	n/a	1037

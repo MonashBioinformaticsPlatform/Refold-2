@@ -1,0 +1,261 @@
+family_id	family	sunid_f	hits	scop_class	user_id
+9	I set domains	49159	2222	Beta	2
+13	Phage Repressor	47419	2	Alpha	2
+24	Serpins	56575	2201	Multi-domain proteins (alpha and beta)	2
+25	Cyclic nucleotide phosphodiesterase		2232	Alpha+Beta	2
+26	Papain-like Cysteine Proteinases	54002	2381	Alpha+Beta	2
+27	Cu,Zn superoxide dismutase-like	49330	1738	Beta	2
+28	Eukaryotic Proteases	50514	2178	Beta	2
+29	Long-Chain Cytokines	47267	2121	Alpha	2
+30	Calmodulin-like	47502	2081	Alpha	2
+31	p53 DNA-binding domain-like	81314	1594	Beta	2
+32	Short Chain Cytokines	47286	2051	Alpha	2
+33	Unknown		5544	Unknown	2
+34	Hemorrhagin	55519	1557	Alpha+Beta	2
+35	C-type Lysozyme	53960	2238	Alpha+Beta	2
+36	Glutamyl tRNA-reductase catalytic, N-terminal domain	69743	1733	Alpha+Beta	2
+38	Pepsin-like proteases	50646	2010	Beta	2
+39	Caspase catalytic domain	52130	1696	Alpha/Beta	2
+40	Vertebrate phospholipase A2	48623	1812	Alpha	2
+41	EGF-type module	57197	1903	Small Proteins	2
+42	Ribonuclease A-like	54077	2455	Alpha+Beta	2
+43	RecA protein-like (ATPase-domain)	52670	2075	Alpha/Beta	2
+45	Neurotrophin	57520	1751	Small Proteins	2
+46	Ppx/GppA phosphatase	110630	1513	Alpha/Beta	2
+47	Kringle Modules	57441	1778	Small Proteins	2
+48	Cytokine receptors/Fibronectin Type III		32	Beta	2
+49	Interferons/interleukin-10 (IL-10)	47305	2226	Alpha	2
+50	Insulin-like	56995	1690	Small Proteins	2
+51	Bowman-Birk Inhibitor	57248	2043	Small Proteins	2
+52	F-actin capping family		53	Alpha+Beta	2
+53	DNA polymerase type-B	47283	1930	Alpha+Beta	2
+54	 Neurotransmitter-gated ion-channel transmembrane pore	90113	1818	Membrane and cell surface proteins and peptides	2
+55	Retinol binding protein-like	50815	1884	Beta	2
+56	G proteins	52592	1785	Alpha/Beta	2
+57	Prion-like	54099	1958	Alpha+Beta	2
+58	Phospholipase C	48538	1454	Alpha	2
+59	Serine carboxypeptidase-like	53499	1616	Alpha/Beta	2
+60	Recombinase DNA-binding domain	46728	1706	Alpha	2
+61	S-adenosylmethionine synthetase	55974	1536	Alpha+Beta	2
+62	Cytochrome P450	48265	1959	Alpha	2
+63	Snake venom toxins	57303	2062	Small Proteins	2
+64	Matrix metalloproteases, catalytic domain	55528	2631	Alpha+Beta	2
+65	Serum albumin-like	48553	2038	Alpha	2
+66	Guanido kinase catalytic domain	55935	2179	Alpha+Beta	2
+67	Type I phosphomannose isomerase	51191	1711	Beta	2
+68	Midkine, a heparin-binding growth factor, C-terminal domain	57292	1847	Small Proteins	2
+70	Dihydrofolate reductases	53598	1717	Alpha/Beta	2
+71	Cystatins	54407	1788	Alpha+Beta	2
+72	Retroviral protease (retropepsin)	50631	2088	Beta	2
+73	Family 1 of glycosyl hydrolase	51521	1781	Alpha/Beta	2
+74	Phosphate binding protein-like	53851	1633	Alpha/Beta	2
+75	Tissue inhibitor of metalloproteinases, TIMP	50243	1588	Beta	2
+76	GABA-aminotransferase-like	53417	2533	Alpha/Beta	2
+77	Transforming growth factor (TGF)-beta	57507	2051	Small Proteins	2
+78	Subtilases	52744	1846	Alpha/Beta	2
+79	Viral glycoprotein, central and dimerisation domains	56984	1903	Membrane and cell surface proteins and peptides	2
+80	Legume lectins	49900	1604	Beta	2
+81	Fungal lipases	53558	1879	Alpha/Beta	2
+82	MHC antigen-recognition domain	54453	2230	Alpha+Beta	2
+83	Globins	46463	1742	Alpha	2
+84	Beta-lactamase inhibitor protein-II, BLIP-II	69315	1855	Beta	2
+85	Thermolysin-like	55490	1989	Alpha+Beta	2
+86	CCP-like	48114	1904	Alpha	2
+87	Glucoamylase	48209	1992	Alpha	2
+89	Platelet-derived growth factor-like	57502	3022	Small Proteins	2
+90	Bcl-2 inhibitors of programmed cell death	56855	1819	Membrane and cell surface proteins and peptides	2
+91	Plant cytotoxins	56372	1789	Alpha+Beta	2
+92	E-set domains of sugar-utilizing enzymes	81282	1888	Beta	2
+93	PFL-like	51999	1719	Alpha/Beta	2
+94	Gonadotropin/Follitropin	57528	2055	Small Proteins	2
+95	Epsilon subunit of F1F0-ATP synthase C-terminal domain	46605	1963	Alpha	2
+96	Long-chain scorpion toxins	57096	1622	Small Proteins	2
+97	Fragments of apolipoproteins	58581	1966	Membrane and cell surface proteins and peptides	2
+98	V set domains (antibody variable domain-like)	48727	2173	Beta	2
+103	Cadherin	49314	2	Beta	7
+104	P22 Tailspike Protein	51150	1484	Beta	7
+105	Starch-binding domain	49453	3	Beta	7
+106	Cellulose-binding domain family III	49390	2	Beta	7
+108	Porin	56936	1999	Membrane and cell surface proteins and peptides	71
+109	V set domains (antibody variable domain-like); C1 set domains (antibody constant domain-like)	48727	1601	Beta	76
+110	Tyrosine kinase receptor	46607	41	Unknown	71
+111	Diisopropylfluorophosphatase (phosphotriesterase, DFP)	63830	1461	Beta	71
+112	alpha-Amylases, C-terminal beta-sheet domain	51012	1968	Beta	71
+113	C1 set domains (antibody constant domain-like)	48942	2227	Beta	71
+114	Outer membrane protein	56926	2244	Membrane and cell surface proteins and peptides	71
+115	Complement control module/SCR domain	57536	1979	Small Proteins	71
+117	Uteroglobin like	48202	2064	Alpha	71
+118	Extracellular domain of cell surface receptors	57354	1727	Small Proteins	71
+119	Small Kunitz-type inhibitors & BPTI-like toxins	57363	2051	Small Proteins	90
+120	Fibronectin type III	49266	1882	Beta	71
+121	Hormone/Growth Factor		1857	Unknown	117
+122	Esterase	52667	1700	Alpha/Beta	145
+123	Inositol polyphosphate 5-phosphatase (IPP5)	64422	1575	Alpha+Beta	151
+124	Plasmodium		1518	Unknown	134
+125	Seed storage protein, 2S albumin	47715	1670	Alpha	162
+126	SLC25	50633	1875	Membrane and cell surface proteins and peptides	164
+127	virus ectodomain	58070	1990	Membrane and cell surface proteins and peptides	163
+128	Light-harvesting complex subunits	56917	10	Membrane and cell surface proteins and peptides	71
+129	Elafin-like	57257	1406	Small Proteins	166
+131	C-type lectin domain	56437	2189	Alpha+Beta	172
+132	beta-Lactamase/D-ala carboxypeptidase	56602	1763	Multi-domain proteins (alpha and beta)	90
+135	TNF receptor-like	57587	1690	Small Proteins	71
+136	TNF-like	49843	1798	Beta	71
+138	Classic zinc finger	57668	1420	Small Proteins	71
+139	Cellulose-binding domain family II	49385	1483	Beta	71
+140	Sec-C motif	103643	1393	Small Proteins	71
+141	Coiled-coil	54021	1625	Unknown	237
+142	DNA helicases		1501	Alpha+Beta	237
+143	Translation initiation factor eIF4e	55419	1503	Alpha+Beta	22
+144	Myotoxin	90157	1438	Small Proteins	244
+145	PLC-like (P variant)	49563	1656	Beta	71
+146	Herpes virus serine proteinase, assemblin	50790	1960	Beta	71
+147	Protein kinase cysteine-rich domain (cys2, phorbol-binding domain)	57890	1442	Small Proteins	254
+148	RNA dependent RNA polymerases	56694	1793	Multi-domain proteins (alpha and beta)	254
+149	Bacterial lipase	53570	1741	Alpha/Beta	254
+150	Cell division protein MinE topological specificity domain	55230	1864	Alpha+Beta	254
+151	Avidin/streptavidin	50877	1651	Beta	254
+152	Cyclophilin (peptidylprolyl isomerase)	50892	1987	Beta	254
+153	Tryptophan biosynthesis enzymes	51381	1637	Alpha/Beta	254
+155	Helicase	58137	1505	Unknown	254
+156	Osteonectin	47489	1694	Alpha	254
+157	Crystallins/Ca-binding development proteins	49696	1772	Beta	254
+158	2Fe-2S ferredoxin-related	54293	1937	Alpha+Beta	254
+159	Integrin beta EGF-like domains	69940	1322	Small Proteins	254
+160	RNA-polymerase beta-prime	64490	1978	Multi-domain proteins (alpha and beta)	254
+161	Sigma2 domain of RNA polymerase sigma factors	88947	1689	Alpha	254
+162	TAZ domain	57934	1640	Small Proteins	71
+163	Triosephosphate isomerase (TIM)	51352	1234	Alpha/Beta	71
+164	Fibritin	58047	1721	Unknown	254
+165	Outer membrane phospholipase A (OMPLA)	56932	1631	Membrane and cell surface proteins and peptides	254
+166	Exonuclease RecJ	75323	1691	Alpha/Beta	71
+167	Carbonic anhydrase	51070	1722	Beta	254
+168	Transmembrane helical fragments	58519	1659	Unknown	254
+169	Extended AAA-ATPase domain	81269	1736	Alpha/Beta	254
+170	DNA topoisomerase IV, alpha subunit	56727	1770	Multi-domain proteins (alpha and beta)	254
+171	Merozoite surface protein 1 (MSP-1)	57239	1719	Small Proteins	254
+172	Apical membrane antigen 1	82911	2151	Small Proteins	254
+174	Adenylyl and guanylyl cyclase catalytic domain	55074	1790	Alpha+Beta	254
+176	Penicillin binding protein dimerisation domain	56520	1687	Alpha+Beta	254
+177	Acetyl-CoA synthase	82852	1832	Multi-domain proteins (alpha and beta)	254
+179	Annexin	47875	1901	Alpha	71
+180	beta 1,4 galactosyltransferase (b4GalT1)	53452	1941	Alpha/Beta	254
+181	Fluorescent proteins	54512	1727	Alpha+Beta	254
+182	PDEase	48548	1958	Alpha	71
+183	Bacterial AB5 toxins, B-subunits	50204	1567	Beta	71
+184	Cyanovirin-N	51323	1640	Beta	71
+185	FAD/NAD-linked reductases, N-terminal and central domains	51943	1908	Alpha/Beta	71
+186	Cystathionine synthase-like	53402	2049	Alpha/Beta	71
+191	Capz beta-1 subunit	90100	1628	Multi-domain proteins (alpha and beta)	71
+192	Capz alpha-1 subunit	90097	1713	Multi-domain proteins (alpha and beta)	71
+193	Lumazine synthase	52122	1731	Alpha/Beta	71
+194	Prokaryotic DNA-bending protein	47730	1672	Alpha	71
+195	Plant defensins	57170	1689	Small Proteins	71
+196	Ferredoxin reductase FAD-binding domain-like	63381	1590	Beta	71
+197	Satiety factor CART (cocaine and amphetamine regulated transcript)	64547	1707	Small Proteins	71
+198	Profilin (actin-binding protein)	55771	1525	Alpha+Beta	71
+199	Clostridium neurotoxins, C-terminal domain	50399	1885	Beta	71
+200	LDL receptor-like module	57425	1512	Small Proteins	71
+201	 Gingipain R (RgpB), N-terminal domain	52137	1913	Alpha/Beta	71
+202	Resistin (Pfam 06954)	111424	1534	Small Proteins	71
+203	Cobalamin (vitamin B12)-binding domain	52242	1700	Alpha/Beta	71
+204	Cutinase	52260	2028	Alpha+Beta	2
+205	Ligand-gated protein channel	56948	2020	Membrane	2
+206	nucleotidyltransferases	n/a	1876	Unknown	653
+207	Succinate dehydrogenase	46977	1487	Alpha	22
+208	Monomeric isocitrate dehydrogenase	82527]	1851	Alpha/Beta	22
+209	Malate dehydrogenase	51849	1723	Alpha/Beta	22
+210	Dual specificity phosphatase-like	52800	1667	Alpha/Beta	2
+211	Phycobilisome	n/a	1976	Alpha	876
+212	enteropeptidase	1.71	1634	Beta	22
+213	NF-kappa-B/REL/DORSAL transcription factors, C- terminal domain	81279	1985	Beta	996
+214	Carbamilase	64433	1635	Alpha+Beta	996
+215	Dimeric isocitrate & isopropylmalate dehydrogenases	53660	1780	Alpha/Beta	996
+216	DNA Replication	n/a	1660	Multi-domain	1045
+217	 Caspase recruitment domain, CARD	9606	1808	Alpha	22
+218	chemoattractive glycoprotein	n/a	1248	Unknown	22
+219	Immunoglobulin light chain kappa variable domain	10090	1465	Beta	1042
+220	monodomain cytochrome C	46627	1675	Alpha	1037
+221	SPRY domain	n/a	1400	Beta	22
+222	Homologous-pairing domain of Rad52 recombinase	9606	1400	Alpha+Beta	22
+223	Intergral-membrane protein	n/a	1741	Membrane	1041
+224	Serum paraoxonase/arylesterase 3, PON3	n/a	900	Beta	1044
+225	interleukin 8-like chemokines	54118	1376	Alpha+Beta	1037
+226	Rhodopsin Like	81320	1245	Membrane	1037
+227	Alkaline phosphatase	53650	1241	Alpha+Beta	1037
+228	Citrate synthase	48257	736	Alpha	1037
+229	Glyceraldehyde-3-phosphate dehydrogenase-like, N-terminal domain	51800	846	Alpha/Beta	1037
+230	alpha-D-mannose-specific plant lectins	51111	738	Beta	1037
+233	 Major surface antigen p30, SAG1	74878	601	Beta	1037
+234	Link domain	56478	690	Alpha+Beta	1037
+235	Proteinase/alpha-amylase inhibitors	47708	736	Alpha	996
+236	 GroEL chaperone, ATPase domain	48593	808	Alpha	1037
+237	 GroES	50130	795	Beta	1037
+238	 Methylenetetrahydrofolate reductase	51731	729	Alpha+Beta	1037
+239	 Formate/glycerate dehydrogenases, NAD-domain	51830	829	Alpha+Beta	1037
+240	EF-hand modules in multidomain proteins	47547	418	Alpha	1037
+241	Staphylokinase/streptokinase	54329	599	Alpha+Beta	1037
+242	Coronavirus nucleocapsid protein	143508	838	Alpha+Beta	1037
+243	 Pepsin-like	50646	543	Beta	1037
+244	Pepsin Like	50646	762	Beta	988
+245	  Protein kinases, catalytic subunit	88854	804	Alpha+Beta	1037
+246	 Interleukin-1 (IL-1)	50362	630	Beta	1037
+247	 Nuclear receptor ligand-binding domain	48509	859	Alpha	1037
+248	 Cell cycle control phosphatase, catalytic domain	52822	758	Alpha/Beta	1037
+249	FKBP12-rapamycin-binding domain of FKBP-rapamycin-associated protein (FRAP)	47213	638	Alpha	1037
+250	FKBP immunophilin/proline isomerase	54535	752	Alpha+Beta	1037
+251	 DNase I-like	56220	648	Alpha+Beta	1037
+252	PE	140460	776	Alpha	1037
+253	NSP4 oligomerization domain	58031	894	Unknown	1037
+254	Ricin B-like	50371	768	Beta	1037
+255	Group V grass pollen allergen	81737	885	Alpha	1037
+256	Tubulin, GTPase domain	52491	589	Alpha/Beta	1037
+257	 Plant lipid-transfer and hydrophobic proteins	47700	609	Alpha	1037
+258	Guanido kinase N-terminal domain	48053	0	Alpha	1037
+259	Band 7/SPFH domain	117893	735	Alpha+Beta	1037
+260	Aminoacid dehydrogenase-like, C-terminal domain	51883	552	Alpha/Beta	1037
+261	 N-acetyl transferase, NAT	55730	720	Alpha+Beta	1037
+262	Amine oxidase N-terminal region	54417	700	Alpha+Beta	1037
+263	Fibrinogen-binding domain	89210	810	Beta	1037
+264	 Hepcidin	82961	608	Beta	1037
+265	 Anthrax protective antigen	56989	705	Membrane	1037
+266	Acetylcholinesterase-like	53475	667	Alpha/Beta	1037
+267	 Photosystems [58157]	58157	644	Unknown	1037
+268	Insect pheromone/odorant-binding proteins	47566	672	Alpha	1037
+269	Glutaminase/Asparaginase	53775	682	Alpha/Beta	1037
+270	HLH, helix-loop-helix DNA-binding domain	47460	767	Alpha	1037
+271	 Type II chitinase	51534	666	Alpha/Beta	1037
+272	Viral proteases [50596]	50596	701	Beta	1037
+273	 FUR-like	101027	745	Alpha	1037
+274	Amyloid peptides	58606	823	Unknown	1037
+275	YoeB/Txe-like	143012	645	Alpha+Beta	1037
+276	Nucleotide and nucleoside kinases	52541	683	Alpha/Beta	1037
+277	 Plant antimicrobial protein MIAMP1	49719	718	Beta	1037
+278	 Proteasome subunits	56251	724	Alpha+Beta	1037
+279	Plastocyanin/azurin-like	49504	575	Beta	1037
+280	Nitrile hydratase beta chain	50101	647	Beta	1037
+281	MMP N-terminal domain	63427	731	Alpha	1037
+282	Cytochrome b of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)	8164	628	Membrane	1037
+283	Neurotoxin B-IV	57012	640	Small	1037
+284	 Blood coagulation inhibitor (disintegrin)	57553	698	Small	1037
+285	 Cyclophilin (peptidylprolyl isomerase)	50892	588	Beta	1037
+286	RraA-like	89563	712	Alpha/Beta	1037
+287	AraC type transcriptional activator [46759]	46759	599	Alpha	1037
+288	 Endostatin	56480	3131	Alpha+Beta	1037
+289	Coagulation factor VIII, membrane-binding peptide	58370	840	Unknown	1037
+290	Thermostable phytase (3-phytase)	50957	428	Beta	1037
+291	 Virulence factor P.69 pertactin	51153	701	Beta	1037
+292	 Viral cysteine protease of trypsin fold	50603	683	Beta	1037
+293	Major surface antigen p30, SAG1	74878	533	Beta	1037
+294	 Troponin coil-coiled subunits	90250	675	Unknown	1037
+295	Fatty acid binding protein-like	50847	720	Beta	1037
+296	Ribotoxin	81310	578	Alpha+Beta	1037
+297	Tail specific protease PDZ domain	68933	591	Beta	1037
+298	Parathyroid hormone fragments (residues between 1 and 39)	58380	628	Unknown	1037
+299	 Peptidase A4 [101656]	101656	432	Beta	1037
+300	PDZ domain	50157	632	Beta	1037
+301	Anticodon-binding domain	50250	544	Beta	1037
+302	Influenza hemagglutinin (stalk) [58065]	58065	516	Unknown	1037
+303	Prolamin	n/a	1	Unknown	991
+304	aminotransferases	n/a	555	Unknown	1315
+305	Kunitz-type serine protease inhibitor	n/a	73	Beta	1531

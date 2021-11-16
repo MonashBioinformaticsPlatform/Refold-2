@@ -1,0 +1,54 @@
+id	name	app_label	model
+1	permission	auth	permission
+2	group	auth	group
+3	user	auth	user
+4	message	auth	message
+5	content type	contenttypes	contenttype
+6	session	sessions	session
+7	site	sites	site
+8	log entry	admin	logentry
+9	additive	refold	additive
+10	admin	refold	admin
+11	assay	refold	assay
+12	cell disrupt method	refold	celldisruptmethod
+13	chaperones	refold	chaperones
+14	comment	refold	comment
+15	construct domains	refold	constructdomains
+16	construct has domain	refold	constructhasdomain
+17	disulphides	refold	disulphides
+18	family	refold	family
+19	fusion	refold	fusion
+20	groupcomparisons	refold	groupcomparisons
+21	groupnotepad	refold	groupnotepad
+22	groups	refold	groups
+23	groupsearches	refold	groupsearches
+24	groupusers	refold	groupusers
+25	journal	refold	journal
+26	lytic agent	refold	lyticagent
+27	method induction	refold	methodinduction
+28	oligo state	refold	oligostate
+29	pre purification	refold	prepurification
+30	project aim	refold	projectaim
+31	protein	refold	protein
+32	protein comment	refold	proteincomment
+33	pubmedfeed	refold	pubmedfeed
+34	redox agent	refold	redoxagent
+35	redox conc	refold	redoxconc
+36	ref technique	refold	reftechnique
+37	refoldblogfeed	refold	refoldblogfeed
+38	refolding additive	refold	refoldingadditive
+39	refolding assay	refold	refoldingassay
+40	refolding chaperones	refold	refoldingchaperones
+41	refolding project aim	refold	refoldingprojectaim
+42	report	refold	report
+43	species	refold	species
+44	homologue	refold	homologue
+45	construct	refold	construct
+46	refolding record	refold	refoldingrecord
+47	refolding comment	refold	refoldingcomment
+48	scop class	refold	scopclass
+50	user activation	refold	useractivation
+51	user online	refold	useronline
+52	autocomplete object	completion	autocompleteobject
+53	migration history	south	migrationhistory
+54	user profile	refold	userprofile

@@ -1,0 +1,329 @@
+species_id	common_name	scientific_name	user_id
+1	Human		2
+2	Bovine		2
+3	Mouse		2
+4	Rat		2
+5	Horse (Equus caballus)		2
+6	Yeast (Saccharomyces cerevisiae)		2
+7	Escherichia coli		2
+8	Barley (Hordeum vulgare)		2
+9	Chicken (Gallus gallus)		2
+10	Drosophila melanogaster		2
+12	Bacillus subtilis		2
+13	Bacillus caldolyticus		2
+14	Thermotoga maritima		2
+15	Peptostreptococcus magnus		2
+16	Aqueorea victoria		2
+17	Taiwan habu (Trimeresurus mucrosquamatus)		2
+18	Dog (Canis familiaris)		2
+19	Porphyromonas gingivalis		2
+20	Bothrops jararacussu		2
+21	Rhizopus chinensis		2
+22	Spinacia oleracea		2
+23	Trypanosoma brucei		2
+24	Rice		2
+25	Torpedo marmorata		2
+26	Yeast (Candida albicans)		2
+27	Bacillus cereus		2
+28	C. elegans		2
+29	Bacteriophage lambda		2
+30	Phage P22		2
+31	Taiwan cobra		2
+32	Saccharopolyspora erythraea		2
+33	Zymomonas mobilis		2
+34	Loligo vulgaris		2
+35	Torpedo californica		2
+36	Ricinus communis		2
+37	Maize		2
+38	Bonnet Monkey		2
+39	Trypanosoma cruzi		2
+40	Pneumocystis carinii		2
+41	Yeast (Candida rugosa)		2
+42	Neisseria meningitidis		2
+43	Aeromonas salmonicida		2
+44	Bacillus thermoproteolyticus		2
+45	Bryonica dioica		2
+46	Hepatitis B virus		2
+47	Streptomyces exfoliatus		2
+48	Phanerochaete chrysosporium		2
+49	Bacillus circulans		2
+50	Erwinia chrysanthemi		2
+51	Saccharomycopsis fibuligera		2
+52	Erythrina cristagalli		2
+53	Mycoplasma arginini		2
+54	Oreochromis niloticus		2
+55	Mycobacterium tuberculosis		2
+56	Bacillus thuringiensis		2
+57	HIV		2
+58	Cucurbita pepo (Squash)		2
+59	Streptococcus pneumoniae		2
+60	Pseudomonas aeruginosa		2
+61	Cobra (naja naja naja)		2
+62	Sulfolobus acidocaldarius		2
+63	Pseudomonas sp.		2
+64	Clostridium sticklandii		2
+65	Clostridium difficile		2
+66	Leishmania mexicana		2
+67	Scorpion (C. noxius)		2
+68	Dengue virus type 2		2
+69	Candida albicans		2
+70	Bacillus licheniformis		2
+71	Clostridium thermocellum		2
+72	Western equine encephalitis		2
+73	Unknown		2
+74	Sub		7
+76	Salmonella typhi Ty21a		71
+77	Pig (Longissimus dorsi)		71
+78	Arabidopsis thaliana		71
+79	Bacillus macerans		71
+80	Dermatophagoides farinae (dust mite)		71
+81	Chlamydophila abortus		71
+82	Rhodopseudomonas blastica		71
+83	Human papillomavirus		71
+84	Pyrococcus woesei		71
+85	Synechochystis sp. PCC 6803		71
+86	Multiple species		71
+87	Plasmodium falciparum		71
+88	Plecoglossus altivelis (ayu)		71
+89	Epinephelus awoara (yellow grouper fish)		71
+90	Trifolium repens		71
+91	Plasmodium chabaudi		71
+92	Felis domesticus (cat)		71
+93	Ovis aries (sheep/ovine)		71
+94	Rabbit (Oryctolagus cuniculus)		71
+95	Gilthead seabream (Sparus aurata)		71
+96	Human rhinovirus		71
+97	Archaeoglobus fulgidus		120
+98	Anopheles gambiae		138
+99	Litopenaeus vannamei		149
+100	Rhodnius prolixus		151
+101	Cimex lectularius		151
+102	Physeter catodon		154
+103	Plasmodium Vivax		134
+104	Arachis Hypogaea		162
+105	HIV-1		163
+106	HIV-2		163
+107	HTLV		163
+108	Syrian hamster		177
+109	Adenovirus Type 2		71
+110	Bordetella pertussis		71
+111	Rhizopus oryzae		71
+112	Oryza sativa L.		219
+113	Xenorhabdus		202
+114	Xenorhabdus nematophila		202
+115	Carp (Cyprinus carpio)		71
+116	Staphylococcus aureus		71
+117	Streptomyces peucetius		71
+118	Rhodobacter sphaeroides		71
+119	Brucella abortus		71
+120	Macaca mulatta (Rhesus macaque)		71
+121	Cellulomonas fumi		71
+122	Candida tropicalis		71
+123	Pig (Sus scrofa)		71
+125	Common snowdrop (Galanthus nivalis)		71
+126	Ctenocephalides felis (Cat flea)		71
+127	Aspergillus fumigatus		71
+128	Xenopus laevis		237
+129	Oreochromis mossambicus (Mozambique tilapia)		71
+130	Crotalus viridis viridis		244
+131	Agkistrodon acutus		71
+132	Oncorhynchus mykiss		71
+133	Colletotrichum lindemuthianum		71
+134	Bacteriophage phi-29		71
+135	Human cytomegalovirus		71
+136	Bacillus amyloliquefaciens		254
+138	Hepititis E Virus	n/a	254
+139	Pseudomonas sp. MIS38	n/a	254
+140	Hepatitis C virus	n/a	254
+141	Pseudomonas fluorescens	n/a	254
+142	Pseudomonas fluorescens	n/a	254
+143	Pseudomonas fluorescens	n/a	254
+144	Saccharomyces cerevisiae	n/a	254
+145	Streptomyces avidinii	n/a	254
+146	Leishmania donovani	n/a	254
+147	Muscari armeniacum L.	n/a	254
+148	Yersinia enterocolitica	n/a	254
+149	Bombyx mori	n/a	71
+150	comamonas acidovorans	n/a	254
+151	Comamonas acidovorans	n/a	254
+152	Micrococcus luteus	n/a	254
+153	Physcomitrella patens	n/a	254
+154	Sparus aurata (Gilthead seabream)	n/a	254
+155	De novo designed protein	n/a	71
+156	Bovine Leukemia Virus	n/a	254
+157	Bacteriophage T4	n/a	254
+158	Boophilus microplus	n/a	254
+159	Thermus thermophilus	n/a	71
+160	Thermococcus sp.B1001	n/a	71
+161	Fasciola gigantica	n/a	71
+162	Schistosoma japonicum	n/a	71
+163	Borrelia burgdorferi	n/a	254
+164	Sulfolobus shibatae	n/a	254
+165	Oryza sativa	n/a	254
+166	Haloarcula marismortui	n/a	254
+167	Bacteriophage P22	n/a	254
+168	Cysticercus cellulosae	n/a	71
+169	Orientia tsutsugamushi/Rickettsia tsutsugamushi	n/a	71
+170	Burkholderia cepacia KWI-56	n/a	71
+171	Nostoc ellipsosporum (Cyanobacterium)	n/a	71
+172	Haloferax volcanii	n/a	71
+174	Plasmodium yoelii	n/a	71
+175	Pentadiplandra brazzeana	n/a	71
+176	Schizosaccharomyces pombe	n/a	71
+177	Bungarus multicinctus (Many-banded krait)	n/a	71
+178	Clostridium botulinum	n/a	71
+179	Clostridium tetanomorphum	n/a	71
+180	Clostridium tetanomorphum	n/a	71
+181	Clostridium tetanomorphum	n/a	71
+182	Lingulodinium polyedrum	n/a	22
+183	 Synechococcus sp. (strain WH8102)	n/a	876
+184	NF-kappa-B/REL/DORSAL transcription factors, C- te	n/a	996
+185	Agrobacterium radiobacter	n/a	996
+186	goldfish	n/a	1037
+187	Cauliflower Mosaic Virus	n/a	1037
+188	Lumbricus terrestris	n/a	22
+189	Hen	n/a	1037
+190	Trichosanthes kirilowii	n/a	1037
+191	chinese cobra Nanja atra	n/a	1037
+192	Dolichos biflorus seeds	n/a	1037
+193	Dolichos biflorus seeds	n/a	1037
+194	Dolichos biflorus seeds	n/a	1037
+195	Dolichos biflorus seeds	n/a	1037
+196	Dendrobium officinale	n/a	1037
+197	Renilla reniformis (Sea pansy)	n/a	1037
+198	Corn	n/a	1037
+199	Pea seed	n/a	1037
+200	Aspergillus niger	n/a	1037
+217	Toxoplasma gondii	n/a	1037
+218	Chlamydolphila pneumoniae	n/a	1037
+219	Staphylococcus sp.	n/a	1037
+220	S. cerevisiae	n/a	1037
+221	Hahella chejuensis	n/a	1037
+222	Streptococcus equisimilis\t	n/a	1037
+223	Human SARS coronavirus	n/a	1037
+224	Vibrio cholerae	n/a	1037
+225	 Goose (Anser anser anser)	n/a	1037
+226	Rana pipiens (Northern leopard frog)\t	n/a	1037
+227	Xanthomonas axonopodis pv. citri\t	n/a	1037
+228	Firefly (Luciola lateralis)	n/a	1037
+229	Mustela vison (American mink) \t	n/a	1037
+230	porcine	n/a	1037
+231	Beauveria bassiana\t	n/a	1037
+232	Drosophila melanogaster (Fruit fly)	n/a	1037
+233	Leishmania infantum	n/a	1037
+234	Sesamum indicum (Oriental sesame) (Gingelly)\t	n/a	1037
+235	Simian rotavirus	n/a	1037
+236	Salmonella typhimurium	n/a	1037
+237	Viral hemorrhagic septicemia virus	n/a	1037
+238	Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm	n/a	1037
+239	Agkistrodon halys pallas (Chinese water mocassin)	n/a	1037
+240	Phleum pratense (Common timothy)\t	n/a	1037
+241	Paracoccidioides brasiliensis\t	n/a	1037
+242	Moorella thermoacetica (Clostridium thermoaceticum	n/a	1037
+243	Haemonchus contortus (Barber pole worm)\t	n/a	1037
+244	Triticum aestivum (Wheat)\t	n/a	1037
+245	Trichosurus vulpecula (Brush-tailed possum)\t	n/a	1037
+246	Solanum chacoense (Chaco potato)\t	n/a	1037
+247	Rhodospirillum rubrum\t	n/a	1037
+248	Halobacterium mediterranei (Haloferax mediterranei	n/a	1037
+249	Galanthus nivalis (Common snowdrop)\t	n/a	1037
+250	Solanum nigrum (Black nightshade)\t	n/a	1037
+251	yeast (Pichia pastoris)	n/a	1037
+252	Oncorhynchus masou (Cherry salmon) (Masu salmon)\t	n/a	1037
+253	Phyllomedusa sauvagei (Sauvage\\'s leaf frog)	n/a	1037
+254	Armoracia rusticana (Horseradish) (Armoracia lapha	n/a	1037
+255	Pyrococcus horikoshii	n/a	1037
+256	Pyrococcus horikoshii	n/a	1037
+257	Pyrococcus horikoshii	n/a	1037
+258	Pyrococcus horikoshii	n/a	1037
+259	Pyrococcus horikoshii	n/a	1037
+260	Crassostrea gigas (Pacific oyster) (Crassostrea an	n/a	1037
+261	Gelonium multiflorum	n/a	1037
+262	Bacillus anthracis\t	n/a	1037
+263	Bacillus anthracis\t	n/a	1037
+264	Cucumaria echinata	n/a	1037
+265	Moraxella catarrhalis	n/a	1037
+266	Sendai virus (strain Fushimi)	n/a	1037
+267	Equine infectious anemia virus (isolate CL22) (EIA	n/a	1037
+268	Rattus norvegicus (Rat)	n/a	1037
+269	Antheraea polyphemus	n/a	1037
+270	Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm	n/a	1037
+271	Vaccinia virus (strain Western Reserve / WR) (VACV	n/a	1037
+272	Ectromelia virus	n/a	1037
+273	Rabbit hemorrhagic disease virus (RHDV)	n/a	1037
+274	Escherichia coli O9:H4 (strain HS)	n/a	1037
+275	Pisum sativum (Garden pea)	n/a	1037
+276	Zea mays (Maize)	n/a	1037
+277	Hepatitis C virus genotype 1b	n/a	1037
+278	Streptomyces ansochromogenes	n/a	1037
+279	Vipera ammodytes ammodytes (Western sand viper)	n/a	1037
+280	Streptomyces fradiae	n/a	1037
+281	Dictyostelium discoideum	n/a	1037
+282	Boophilus microplus (Cattle tick)	n/a	1037
+283	Flavobacterium sp.	n/a	1037
+284	Papaver rhoeas	n/a	1037
+285	Ideonella dechloratans	n/a	1037
+286	Macadamia nut (Macadamia integrifolia)	n/a	1037
+287	Bacillus sp. 01-855	n/a	1037
+288	Cucurbita pepo (Vegetable marrow) (Summer squash)	n/a	1037
+289	Felis silvestris catus (Cat)	n/a	1037
+290	Trichoderma atroviride	n/a	1037
+291	Rhodococcus sp.	n/a	1037
+292	Spirinchus lanceolatus	n/a	1037
+293	Cerebratulus lacteus (Milky ribbon worm)	n/a	1037
+294	Pseudomonas putida	n/a	1037
+295	Anabaena sp.	n/a	1037
+296	Agkistrodon halys brevicaudus (Korean slamosa snak	n/a	1037
+297	Lumbricus rubellus (Humus earthworm)	n/a	1037
+298	Cavia porcellus (Guinea pig)	n/a	1037
+299	Cavia porcellus (Guinea pig)	n/a	1037
+300	Cavia porcellus (Guinea pig)	n/a	1037
+301	Cavia porcellus (Guinea pig)	n/a	1037
+302	Naja atra (Chinese cobra)	n/a	1037
+303	Thunnus albacares (Yellowfin tuna) (Neothunnus mac	n/a	1037
+304	Azotobacter vinelandii	n/a	1037
+305	Dengue virus type 2	n/a	1037
+306	Pyrococcus furiosus	n/a	1037
+307	Pyrococcus furiosus	n/a	1037
+308	Pyrococcus furiosus	n/a	1037
+309	Pyrococcus furiosus	n/a	1037
+310	Agrobacterium tumefaciens	n/a	1037
+311	Chlamydia trachomatis	n/a	1037
+312	Chlamydia trachomatis	n/a	1037
+313	Photinus pyralis (North American firefly)	n/a	1037
+314	Schizosaccharomyces pombe (Fission yeast)	n/a	1037
+315	Leuconostoc mesenteroides	n/a	1037
+316	Bacteriophage K11	n/a	1037
+317	Haemophilus influenzae	n/a	1037
+318	Cerastes cerastes (Horned desert viper)	n/a	1037
+319	Poliovirus type 3	n/a	1037
+320	West Nile virus (WNV	n/a	1037
+321	Lates calcarifer (Barramundi)	n/a	1037
+322	Hantaan virus	n/a	1037
+323	Trimeresurus mucrosquamatus	n/a	1037
+324	Brucella abortus	n/a	1037
+325	Sarcocystis muris	n/a	1037
+326	Giardia lamblia	n/a	1037
+327	Aspergillus restrictus	n/a	1037
+328	Flavobacterium heparinum	n/a	1037
+329	Siganus guttatus (Rabbitfish)	n/a	1037
+330	Epstein-Barr virus	n/a	1037
+331	Japanese encephalitis virus	n/a	1037
+332	Bacteriophage phi-29	n/a	1037
+333	Cepaea hortensis	n/a	1037
+334	Aspergillus niger	n/a	1037
+335	Euglena gracilis	n/a	1037
+336	Actinidia deliciosa (Kiwi)	n/a	1037
+337	Influenza A virus	n/a	1037
+338	Bertholletia excelsa	n/a	991
+339	Metridia longa	n/a	1037
+340	Thermococcus kodakarensis KOD1	n/a	1315
+341	Thermococcus kodakarensis KOD1	n/a	1315
+342	Entamoeba histolytica	n/a	1037
+343	Burkholderia cepacia (Pseudomonas cepacia)	n/a	1037
+344	Solanum tuberosum (Potato)	n/a	1037
+345	Dermatophagoides pteronyssinus (House-dust mite)	n/a	1404
+346	Chicken Egg White	n/a	1429
+347	bovine erythrocytes	n/a	1429
+348	Bauhinia bauhinioides	n/a	1531
+349	listeria monocytogenes	n/a	1565

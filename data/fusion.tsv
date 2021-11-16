@@ -1,0 +1,84 @@
+fusion_id	fusion	user_id
+1	None	2
+2	N-terminal hexahistidine tag	2
+3	N-terminal hexahistidine tag and autolytic cleavage sequence	2
+4	C-terminal hexahistidine tag	2
+5	N-terminal maltose binding protein	2
+6	C-terminal maltose binding protein	2
+8	N-terminal interferon gamma	2
+9	N-terminal thioredoxin + hexahistidine tag	2
+10	Thioredoxin	2
+11	N-terminal GST	2
+12	N-terminal MS-2 polymerase	2
+13	N-terminal pepsinogen	2
+14	N-terminal hexahistidine tag and Protein S peptide tag	2
+15	N-terminal first 11 codons of gene 10 of phage T7	7
+16	pro sequence	22
+17	N-terminal hexahis + pro seq	71
+18	C-terminal polylysine tag	71
+19	N-terminal thioredoxin tag/C-terminal hexahistidine tag	71
+20	C-terminal polar/charged tail	71
+21	Non-purification fusion - see notes	71
+22	N-terminal thioredoxin	71
+23	C-terminal streptavidin	71
+24	C-terminal  BirA substrate peptide	136
+25	Ftr	138
+26	N-terminal hexahistidine tag and factor Xa-cleavage site	153
+27	N-terminal FkpA/SlyD and C-terminal Hexahistidine Tag	163
+28	P2 tetanus toxoid T-helper epitope was coupled to the N-terminus	119
+29	N-terminal OmpA signal sequence	71
+30	N-terminal fibronectin cell-binding domain	71
+31	N-terminal maltose-binding protein tag/C-terminal His tag	71
+32	N-terminal streptavidin	71
+33	N-terminal and C-terminal poly-histidine tags	71
+34	N-terminal hexahistidine and GST tag	71
+35	C-terminal hexahis + pro seq	71
+36	B1 domain of Streptococcal protein G	244
+37	N-terminal S-tag	71
+38	N-terminal Protein A	71
+39	N-terminus CII and beta-globin residues 1-18	71
+40	Beta-galactosidase	254
+41	N-terminal GST and C-terminal hexahis	71
+42	N-terminal hexahis + Xpress tag	71
+43	N-terminal KSI sequence, C-terminal hexahistidine tag	254
+44	N-terminal KSI sequence, C-terminal hexahistidine tag	254
+45	C-terminal sequence	254
+46	N-terminal hexahis + TAT sequence	254
+47	C-terminal hexahis +V6 epitope	254
+48	N-terminal Hexahis tag + HMK recognition sequence	254
+49	N-terminal poly-histidine tag	254
+50	N-terminal human growth hormone portion (aa.1-122)	71
+51	N-terminal GST + pro-sequence	71
+52	N-terminal hexahis + Trx Tag	254
+53	N-terminal T7 tag	254
+54	N-terminal staphylococcal nuclease	71
+55	C-terminal myc tag	71
+56	N-terminal OmpA and Pro	71
+57	N-terminal hexahistidine tag + thrombin cleavage site	2
+58	N-terminal hexahistidine tag + thrombin cleavage site	2
+59	N-terminal hexahistidine tag + thrombin cleavage site	2
+60	C-LytA	996
+61	N terminal hexa His tag + TEV cleavage sequence	22
+62	N-terminal hexahistidine tag +c terminal solubilization enhancing domain (SED)	1037
+63	N-terminal small ubiquitin-related modifier (SUMO)	1037
+72	C-terminal luciferase	1037
+73	C-terminal luciferase	1037
+74	C-terminal luciferase	1037
+75	N-terminal +C terminal Glycine-serine dipeptide	1037
+76	N-terminal methionine+C terminal his-tag	1037
+77	N-terminal +C terminal hexahistidine tag + thioredoxin tag	1037
+78	N-terminal polyhistidine peptide tag	1037
+79	C-terminal intein	1037
+80	C-terminal hexahistidine tag+GST tag	1037
+81	N-terminal +C terminal hexahistidine tag	1037
+82	GST	1037
+83	N-terminal methionine	1037
+84	C-terminal T7 tag	1037
+85	C-terminal maltose-binding protein	1037
+86	N-terminal IgG tag	1037
+87	C-terminal hexahistidine + tryptophan	1037
+88	N-terminal TrpE + C-terminal six arginine	1037
+89	T7	1037
+90	c-terminal cysteine	1037
+91	ScFX	1037
+92	ScFX	1037
